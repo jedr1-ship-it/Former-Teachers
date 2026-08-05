@@ -1,0 +1,328 @@
+{
+ "programs": [
+  {
+   "country": "Spain (Zaragoza)",
+   "name": "10 Mirrors",
+   "short": "Retired teachers mentor student teachers",
+   "long": "Retired teachers with strong professional track records were paired with education students to provide mentoring and support throughout their training.",
+   "sources": [
+    "2019 Paper"
+   ],
+   "type": "Future-Teacher Mentoring"
+  },
+  {
+   "country": "United Kingdom (England)",
+   "name": "Return to Teaching pilot programme",
+   "short": "Support for qualified teachers returning to secondary schools",
+   "long": "Helped qualified teachers return to teaching EBacc subjects in secondary schools. NFER evaluated the pilot through surveys and interviews with returners and school coordinators, plus analysis of administrative data. The programme attracted strong interest from potential returners, but the evaluation found it was unlikely to represent good value for money.",
+   "sources": [
+    "2018 NFER Evaluation Report",
+    "2018 NFER Blog"
+   ],
+   "type": "Return Support"
+  },
+  {
+   "country": "United Kingdom (England)",
+   "name": "Return to Teaching Advisory (RTTA) service",
+   "short": "Advisory service for teachers considering a return",
+   "long": "An advisory service that offers guidance to qualified teachers who are considering a return to the classroom.",
+   "sources": [
+    "Education Hub"
+   ],
+   "type": "Return Support"
+  },
+  {
+   "country": "United States (Colorado)",
+   "name": "Retired Mentors for New Teachers program",
+   "short": "Retired teachers and principals mentor early-career teachers",
+   "long": "Run in Aurora Public Schools, the program paired retired teachers and principals with early-career elementary school teachers as mentors. A What Works Clearinghouse review found no effect on students' reading or math achievement, or on teacher retention.",
+   "sources": [
+    "2017 Report",
+    "WWC Review"
+   ],
+   "type": "Peer Mentoring"
+  },
+  {
+   "country": "United States (4 states)",
+   "name": "",
+   "short": "Retired teachers as student tutors",
+   "long": "Retired teachers tutored students in math, replicating an earlier program that used graduate students as tutors. Hiring retirees through tutoring programs, rather than school districts, can also avoid pension-related complications.",
+   "sources": [
+    "2015 Paper"
+   ],
+   "type": "Student Mentoring"
+  },
+  {
+   "country": "United States (unspecified)",
+   "name": "",
+   "short": "Reallocating funding to support mentor stipends",
+   "long": "Some states have found ways to reallocate funding when bringing back retired teachers: since retirees keep their pension benefits, their position doesn't need to cover benefits costs, creating modest savings (though this can be offset if the retiree is near the top of the salary scale). A few states have used those savings to fund stipends for resident or apprentice teachers, who are then matched with the veteran or retired teachers as mentors. This is reportedly an approach used by the Next Education Workforce initiative (Arizona State University) in New Mexico or Arizona to help fund its strategic staffing model. No published studies on this specific approach were identified; anecdotal feedback points to mixed experiences with the mentor pairing, including generational gaps and retirees being less current on new curriculum, instruction, and technology.",
+   "sources": [
+    "John Rice, WestEd (email via Matthew Soldner)"
+   ],
+   "type": "Funding Strategy"
+  },
+  {
+   "country": "China",
+   "name": "Silver Age Teachers Action Plan",
+   "short": "National plan re-employing retired teachers in rural schools",
+   "long": "National program, run by the Ministry of Education since 2018 and expanded in 2023 by ten government bodies, targeting the re-employment of about 120,000 retired teachers over three years. Retired principals, senior teachers, and pedagogical researchers (generally 65 or under) keep their full pension plus a 20,000-yuan annual allowance, jointly funded by central and local government, to teach and mentor young local teachers in poverty-lifted, ethnic-minority, and border counties -- places where the money compensates exactly the friction that prevents that return, with little deadweight.",
+   "sources": [
+    "2025 Case Study",
+    "Government Notice"
+   ],
+   "type": "Return Support"
+  },
+  {
+   "country": "Australia (New South Wales)",
+   "name": "Teachers Re-Engage",
+   "short": "Department directly re-contacts recent leavers to bring them back (nudge + \"easy route\")",
+   "long": "Launched in November 2023 amid a shortage of over 3,000 vacancies, the NSW Department of Education used its own staffing records to directly contact more than 1,500 teachers who had resigned in the previous five years, offering streamlined re-accreditation and placement in casual or temporary roles with routes to permanent positions. Over 260 expressed interest and 145 were placed across more than 600 schools, about 60% of them returning from retirement, one of the few return programs anywhere that publishes its full funnel from contacts to placements. No follow-up figures have been published since May 2024, and the program has since disappeared from official reporting.",
+   "sources": [
+    "NSW Goverment Announcement",
+    "Returning Teachers Page"
+   ],
+   "type": "Return Support"
+  },
+  {
+   "country": "Bahamas",
+   "name": "Teacher Reservist Program",
+   "short": "Standing reserve of retired and former teachers, activated on demand",
+   "long": "Facing a shortfall of teachers across 162 public schools spread over 24 islands, the Ministry of Education announced in July 2026 a standing Teacher Reservist Program built on its existing Supply Teacher platform: a permanent, registered reserve of qualified Bahamians, recently retired teachers, former teachers who built careers elsewhere, and recent graduates, that schools can activate as needed, with a multi-agency task force to fast-track vetting and accreditation. Rather than a one-off rescue campaign, the design institutionalizes the reserve pool itself. Announcement-stage as of mid-2026, no regulations, enrollment figures, or results have been published yet.",
+   "sources": [
+    "Minister's Official Statement",
+    "News Coverage"
+   ],
+   "type": "Return Support"
+  },
+  {
+   "country": "United States (national)",
+   "name": "AARP Foundation Experience Corps",
+   "short": "Former teachers volunteers tutoring struggling early readers in public schools",
+   "long": "Running since 1996, the program trains volunteers aged 50 and over, many of them retired educators, to tutor struggling early readers in high-poverty public schools through short weekly sessions in small groups. A randomized controlled trial found significant reading gains for the students, and a second trial at Johns Hopkins found the tutoring also protects the physical and cognitive health of the volunteers themselves, one of the few programs rigorously shown to benefit both sides of the exchange. It currently reaches several thousand students across 18 US communities.",
+   "sources": [
+    "Program Research Page",
+    "2009 Paper"
+   ],
+   "type": "Student Mentoring"
+  },
+  {
+   "country": "New Zealand",
+   "name": "Returning to Teaching pathway",
+   "short": "Support and funding for former teachers returning as relief teachers",
+   "long": "The Ministry of Education funds initiatives that encourage former teachers to return to the classroom as relief teachers, in response to ongoing shortages. Returners who haven't taught in five or more years can relief teach for 20 half days while renewing their certification, without first completing a full Teacher Education Refresh programme. This runs alongside a broader Teacher Bonding Scheme that offers financial incentives, including to experienced teachers, to take up roles in priority and rural schools.",
+   "sources": [
+    "Education Workforce (Ministry of Education)"
+   ],
+   "type": "Return Support"
+  },
+  {
+   "country": "Portugal",
+   "name": "Rehiring of retired teachers with pay supplement",
+   "short": "Pension top-up offered to retired teachers who return to shortage subjects",
+   "long": "Under a 2024 decree-law, the Ministry of Education let retired teachers return to teach shortage subjects while keeping their pension and receiving a monthly supplement of up to 750 euros. Of around 200 openings, only 80 retired teachers applied and about 63 returned to the classroom. Teacher unions attributed the low uptake to working conditions rather than pay, the Fenprof leader said teachers retire because they no longer wish to remain active and called the expectation of their return an illusion, while the FNE leader linked it to accumulated fatigue and to retirees being offered the same conditions as active staff.",
+   "sources": [
+    "Decree-Law 51/2024",
+    "News in Público",
+    "News in Diário de Notícias"
+   ],
+   "type": "Return Support"
+  },
+  {
+   "country": "Austria",
+   "name": "Reactivation of retired teachers",
+   "short": "Regional education authorities recruit retired teachers back to fill shortages",
+   "long": "Facing a retirement-driven shortage, Austria's regional education directorates began actively recruiting retired teachers back to the classroom,  in Vienna they wrote to some 300 retirees, other regions had principals approach retirement-age staff about staying on at reduced hours, and Vorarlberg created a dedicated post to promote the option. Returning teachers keep their full pension and take a separate contract paid at the beginner salary scale, and take-up so far has been small, on the order of dozens nationwide. A 2025 study in the European Journal of Teacher Education examines whether this pool is a genuine untapped reserve or just an emergency stopgap, and points to pension and service-crediting rules as a barrier that federal legislation is being asked to fix.",
+   "sources": [
+    "News in ORF",
+    "2025 Paper"
+   ],
+   "type": "Return Support"
+  }
+ ],
+ "legislation": [
+  {
+   "country": "United States (North Carolina)",
+   "short": "Return-to-work policy for retired teachers",
+   "long": "A return-to-work policy allowed retired teachers to work full-time from 1999 to 2009. It disproportionately benefited high-need schools.",
+   "sources": [
+    "2024 Paper"
+   ]
+  },
+  {
+   "country": "United States (Georgia)",
+   "short": "Legislation allowing districts to rehire retired teachers",
+   "long": "An audit reviewed legislation letting districts hire retired teachers without affecting their retirement benefits. The law is fairly restrictive: only teachers with at least 30 years of experience qualify for the three highest-need subject areas in each region. These restrictions made it difficult for districts to rehire retirees, resulting in only about 350 retired teachers working statewide.",
+   "sources": [
+    "Audit Report"
+   ]
+  },
+  {
+   "country": "United States (New Mexico)",
+   "short": "Legislation allowing districts to rehire retired teachers",
+   "long": "Lets retired educators return to teaching for up to three years without forfeiting pension benefits, with no limits on salary or work hours.",
+   "sources": [
+    "New Mexico Higher Education Department"
+   ]
+  },
+  {
+   "country": "United States (Louisiana)",
+   "short": "Legislation allowing districts to rehire retired teachers",
+   "long": "A law allowed retired teachers to be re-employed in critical shortage areas without suspension or reduction of their pension.",
+   "sources": [
+    "KLFY.com"
+   ]
+  },
+  {
+   "country": "United States (Virginia)",
+   "short": "Legislation allowing districts to rehire retired teachers",
+   "long": "An executive order removed obstacles for qualified retired teachers to renew their licenses and return to shortage areas, letting them draw both a new salary and their pension.",
+   "sources": [
+    "Education Week"
+   ]
+  },
+  {
+   "country": "United States (Michigan)",
+   "short": "Loosened rules for retired teachers returning to work",
+   "long": "Michigan significantly loosened its rules on retired teachers returning to work in 2022-2023 in response to educator shortages. Two public acts simplified the requirements and set a six-month waiting period, after which no penalties apply. The change is temporary and set to sunset in 2028, since it was a direct response to post-COVID shortages; Michigan is reportedly the most permissive state on this issue among its Midwest peers. No studies focused specifically on retirees were identified.",
+   "sources": [
+    "Amy Feygin, AIR (email via Matthew Soldner)"
+   ]
+  },
+  {
+   "country": "Ireland",
+   "short": "Career break scheme letting teachers return without losing their post",
+   "long": "Registered teachers can take extended unpaid leave under the Career Break Scheme while keeping the right to return to teaching afterward, provided they give notice by a set deadline each year. From the 2025/26 school year, the Department of Education lifted earlier restrictions on substitute teaching during a career break or job-share, so time spent substituting now counts toward salary progression and can build eligibility for the supplementary supply panel.",
+   "sources": [
+    "Career Break Scheme (gov.ie)"
+   ]
+  },
+  {
+   "country": "Canada (Ontario)",
+   "short": "Pension rules capping how much retired teachers can work",
+   "long": "Ontario's teacher pension plan lets retired teachers work up to 50 days a year for a school board without suspending their pension, a limit that has been raised and lowered repeatedly depending on staffing conditions, it went as high as 95 days during a severe shortage in 1990 and again temporarily during the pandemic. Teacher unions have pushed back on relying more heavily on retirees, arguing it isn't a sustainable fix for shortages and can crowd out early-career teachers looking for permanent positions.",
+   "sources": [
+    "Ontario College of Teachers"
+   ]
+  },
+  {
+   "country": "France",
+   "short": "Pension rules letting retired teachers return to the classroom",
+   "long": "France's combined employment-and-pension framework lets retired public-school teachers return to teach as contract or substitute staff while drawing their pension, after a six-month waiting period from the date they retired. Boards use it to fill posts in shortage subjects, and its use to recruit retired teachers as substitutes has been debated in the National Assembly. Like similar rehiring rules elsewhere, it is an enabling framework rather than a program, with no published figures on how many retired teachers return.",
+   "sources": [
+    "National Assembly Question"
+   ]
+  }
+ ],
+ "research": [
+  {
+   "country": "Australia",
+   "short": "Survey of former classroom teachers",
+   "long": "Examines teacher attrition from the perspective of former classroom teachers and school leaders, drawing on data from 256 former teachers across all Australian states and territories, sectors, and career stages who left the profession between 2016 and 2024. Many respondents had kept ties to education through other roles.",
+   "sources": [
+    "2024 Paper"
+   ],
+   "quality_pepe": "2",
+   "comments_pepe": "",
+   "quality_jose": "",
+   "comments_jose": ""
+  },
+  {
+   "country": "Australia",
+   "short": "Post-teaching pathways and wellbeing after leaving the profession",
+   "long": "Uses two decades of data from Australia's HILDA household panel survey to follow teachers after they leave the classroom and see where they end up and how their lives change. Workload, stress, and poor work-life balance and not salary come through as the strongest reasons teachers leave, and many who do stay connected to education or move into related caring fields like healthcare rather than leaving the sector altogether. After leaving, former teachers report better job satisfaction, more leisure time, and greater flexibility, even though their wages don't meaningfully improve, reinforcing that working conditions rather than money are the real driver of attrition.",
+   "sources": [
+    "2025 Paper"
+   ],
+   "quality_pepe": "3",
+   "comments_pepe": "Its main strength is that it tracks the same teachers before and after leaving, which makes the workload-over-pay finding fairly credible. External validity is limited though cause the sample is small, general-purpose, and Australia-specific and gets shakier for anyone followed more than a decade after leaving",
+   "quality_jose": "",
+   "comments_jose": ""
+  },
+  {
+   "country": "United States (Michigan)",
+   "short": "Report on certified teachers not currently teaching",
+   "long": "Looks at certified teachers who are not teaching in Michigan and what would motivate them to return. Retired teachers are included but are not the focus; most of the sample was younger than retirement age.",
+   "sources": [
+    "2020 Preliminary Findings",
+    "2021 Report"
+   ],
+   "quality_pepe": "3",
+   "comments_pepe": "To characterize the profile of non-teaching teachers they have amazing administrative data. However, to characterize reasons and potential policy solutions the rely on a self-selected sample of survey respondents with only 30% of response rate! It's only for pre-K12 schools where there are more movement and less qualified staff more prone to change of job. Also is easier for SCTs to enter into this sector",
+   "quality_jose": "",
+   "comments_jose": ""
+  },
+  {
+   "country": "United States",
+   "short": "Hazard model estimating teachers' probability of leaving the labor force",
+   "long": "Follows certified female teachers through a national longitudinal survey that tracked a cohort of high school graduates into their careers, using their marriage and childbearing histories to study why they leave the classroom. Most teachers who leave exit the workforce entirely rather than move to a better-paid job elsewhere, so the common story of teachers being lured away by other employers turns out not to be the main driver of attrition. Having a newborn child is by far the strongest reason women leave, well ahead of marriage or pay. Many of the teachers who leave do eventually return to the classroom within a few years, and overall attrition looks similar to that of other occupations with comparable education requirements.",
+   "sources": [
+    "2002 Paper"
+   ],
+   "quality_pepe": "4",
+   "comments_pepe": "Very solid conceptual framework. The model is useful mainly for framing why exit type matters and how central family motives are to attrition, however its main limitation is the data... small, selected sample from the 1970s-80s. Maternity and parental leave policies since then may have reduced how often mothers leave the workforce",
+   "quality_jose": "",
+   "comments_jose": ""
+  },
+  {
+   "country": "United States (national)",
+   "short": "Long-run comparison of teacher turnover against other professions",
+   "long": "Pushes back on the popular narrative that teachers are fleeing the classroom in unprecedented numbers: turnover has held remarkably steady for decades and looks a lot like turnover in other well-educated, licensed professions such as nursing and accounting, not the crisis politicians and headlines describe. Older teachers are actually more likely to stick around today than a generation ago, and even the pandemic-era spike in departures proved temporary. The policy takeaway: stop treating turnover as a uniform problem to be minimized everywhere, and focus instead on the specific hard-to-staff schools where it's genuinely high, since some churn among weaker teachers can even raise average teacher quality.",
+   "sources": [
+    "2025 Article"
+   ],
+   "quality_pepe": "4",
+   "comments_pepe": "Very clean and easy to read brief. The data of the CPS is reliable and representative of the US as whole...  but pending to understand properly how are they using it!",
+   "quality_jose": "",
+   "comments_jose": ""
+  },
+  {
+   "country": "United States (national)",
+   "short": "Comparing teacher turnover with nurses, social workers, and accountants",
+   "long": "Teachers don't actually leave their profession more than comparably educated workers in similar fields,  if anything, they turn over less than social workers and about the same as accountants and nurses. What makes teaching different is early retirement: turnover among older teachers is unusually high, and pension structure appears to be the reason, since teacher pensions replace an unusually large share of salary once a teacher is vested, which locks in younger teachers but pushes them out once they're old enough to retire. The paper also reconciles a literature that seemed contradictory: earlier studies disagreed about whether teacher turnover is a crisis mainly because they used different comparison groups and different age ranges, not because teachers actually behave differently across studies.",
+   "sources": [
+    "2007 Paper"
+   ],
+   "quality_pepe": "5",
+   "comments_pepe": "Very clean and well written. Strong identification, instead of comparing teachers to 'all workers,' they hand-pick genuinely comparable, similarly-credentialed professions and pool 10 years of CPS data for a huge sample (18,786 teachers).",
+   "quality_jose": "",
+   "comments_jose": ""
+  },
+  {
+   "country": "United States (national)",
+   "short": "National survey on who moves, who leaves, and why",
+   "long": "Based on the government's official, nationally representative teacher surveys (NTPS/TFS) the US turnover was 15.1% in 2021-22, split between 8.0% who moved to another school and 7.1% who left teaching altogether,  concentrated among uncertified, early-career, and hard-to-staff-subject teachers, and in high-poverty, high-minority, and charter schools. Salary, effective school leadership, and job satisfaction are the three strongest predictors: moving from a low to a high score on any one of them roughly halves a teacher's predicted probability of leaving.",
+   "sources": [
+    "2026 Report"
+   ],
+   "quality_pepe": "4",
+   "comments_pepe": "Best sampling design in the list: NTPS/TFS are the government's own nationally representative teacher surveys, not a convenience sample. But the regression is correlational, not causal (a linear probability model, no identification strategy), so 'salary/leadership/satisfaction cut turnover in half' should be read as strong associations, not causal effects.",
+   "quality_jose": "",
+   "comments_jose": ""
+  },
+  {
+   "country": "Netherlands",
+   "short": "The pool of qualified teachers outside education far exceeds the shortage",
+   "long": "Uses national register data to show that the number of people holding teaching qualifications who work outside education is far larger than the teacher shortage itself, meaning the shortage could in principle be closed by drawing back only a fraction of this hidden reserve. A survey finds that these inactive teachers rate several working conditions more favourably than teachers still in the classroom, and that what would bring them back is less about pay than about lower workload, more autonomy, and more control over their hours.",
+   "sources": [
+    "2024 Paper"
+   ],
+   "quality_pepe": "3",
+   "comments_pepe": "The data is interesting and administrative (that's the reason for the 3) but the analysis of the data is suprisingly very poor... kind of done solely with an old version of ChatGTP",
+   "quality_jose": "",
+   "comments_jose": ""
+  },
+  {
+   "country": "International: USA,",
+   "short": "",
+   "long": "",
+   "sources": [
+    "2025 Paper"
+   ],
+   "quality_pepe": "4",
+   "comments_pepe": "Very solid literature  review restricted to causal or quasi-experimental evidence. The model model is quite simplistic but ilustrative and the lessons are very country dependent, however..",
+   "quality_jose": "",
+   "comments_jose": ""
+  }
+ ]
+}
