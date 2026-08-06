@@ -1,6 +1,6 @@
 # References
 
-Master reference list for "Former Teachers: Barriers, Incentives and Policy Lessons for Re-entry". Compiled 5 August 2026 from the REFERENCES USED sections of ch1.md, ch2.md, ch3.md, ch4a.md, ch4b.md and ch5.md, cross-checked against the research-base bibliographies (fix files taking precedence on rendering conflicts). Alphabetical by author; OECD Education Working Paper format (author-year, "and" not "&", italic report/journal titles, quoted article titles, URL and accessed date where available). Entries flagged [CHECK] carry a compiler note at the end of the entry. The three Somers/Fleck team outputs (ESB article; ROA Research Memorandum; De Economist review) are distinct publications and are listed separately. No personal communications are cited in any chapter (the Feygin/AIR correspondence is not used; the WestEd entry is dropped per team decision), so none appear here.
+Master reference list for "Former Teachers: Barriers, Incentives and Policy Lessons for Re-entry". Compiled 5 August 2026 from the REFERENCES USED sections of ch1.md, ch2.md, ch3.md, ch4a.md, ch4b.md and ch5.md, cross-checked against the research-base bibliographies (fix files taking precedence on rendering conflicts). Alphabetical by author; OECD Education Working Paper format (author-year, "and" not "&", italic report/journal titles, quoted article titles, URL and accessed date where available). All former [CHECK] flags are resolved; see compiler note 2. The three Somers/Fleck team outputs (ESB article; ROA Research Memorandum; De Economist review) are distinct publications and are listed separately. No personal communications are cited in any chapter (the Feygin/AIR correspondence is not used; the WestEd entry is dropped per team decision), so none appear here.
 
 - AARP (2025), "AARP Foundation Experience Corps Celebrates 30 Years", AARP, Washington, DC, https://www.aarp.org/advocacy/experience-corps-celebrates-30-years-2025/.
 
@@ -46,15 +46,15 @@ Master reference list for "Former Teachers: Barriers, Incentives and Policy Less
 
 - Department for Education (2023), "Teacher recruitment and retention: How we're helping former teachers return to education", *The Education Hub*, 9 August 2023, https://educationhub.blog.gov.uk/2023/08/teacher-recruitment-and-retention-how-were-helping-former-teachers-return-to-education/.
 
-- Department for Education (2025), *School Workforce in England: Reporting Year 2024*, Explore Education Statistics, London, https://explore-education-statistics.service.gov.uk/find-statistics/school-workforce-in-england/2024. [CHECK: two Department for Education (2025) entries exist (this and the Working Lives survey series below); in-text citations in Chapter 2 need a/b suffixes or bracketed reference numbers to disambiguate.]
+- Department for Education (2025a), *School Workforce in England: Reporting Year 2024*, Explore Education Statistics, London, https://explore-education-statistics.service.gov.uk/find-statistics/school-workforce-in-england/2024.
 
-- Department for Education (2025), *Working Lives of Teachers and Leaders* survey series (2022-2024 waves), Department for Education, London; figures as reported in SecEd (2025), "Teachers' working hours fall – to 48.1 a week", https://www.sec-ed.co.uk/content/news/teachers-weekly-working-hours-48-a-week. [CHECK: see previous entry; also a composite entry (survey series + press rendering) — consider splitting DfE source and SecEd rendering if the compiler style requires one work per entry.]
+- Department for Education (2025b), *Working Lives of Teachers and Leaders* survey series (2022-2024 waves), Department for Education, London; figures cited as reported in SecEd (2025), "Teachers' working hours fall – to 48.1 a week", https://www.sec-ed.co.uk/content/news/teachers-weekly-working-hours-48-a-week.
 
 - Department of Education (2019), *Circular 0054/2019 – Leave Schemes for Registered Teachers Employed in Recognised Primary and Post Primary Schools*, Department of Education, Dublin, https://assets.gov.ie/static/documents/Circular_0054.2019.pdf (accessed on 4 August 2026).
 
 - Department of Education and Youth (2025), *Information Note TC/IN 0005/2025 – Temporary changes to the Career Break Scheme for Registered Teachers employed in Recognised Primary and Post Primary Schools – 2025/26 School Year*, Department of Education and Youth, Dublin, 26 June 2025, https://assets.gov.ie/static/documents/TC.IN_0005.2025_Information_Note_Career_Break_for_Teachers_25.26_school_year.pdf (accessed on 4 August 2026).
 
-- Deutsches Schulportal (2023), "Mehrheit der Länder wirbt gezielt um Lehrkräfte im Pensionsalter" (Länderüberblick survey, 2 August 2023), Robert Bosch Stiftung, https://deutsches-schulportal.de/bildungswesen/laenderueberblick-umfrage-lehrermangel-pensionierte-lehrer/ (accessed on 5 August 2026). [CHECK: Chapter 2 renders the headline as "Fast alle Bundesländer werben gezielt um pensionierte Lehrer" (the lit_reserve.md rendering); fix_netherlands_more_cases.md verified the title as given here — same URL, one article. Harmonise Chapter 2's REFERENCES USED entry.]
+- Deutsches Schulportal (2023), "Mehrheit der Länder wirbt gezielt um Lehrkräfte im Pensionsalter" (Länderüberblick survey, 2 August 2023), Robert Bosch Stiftung, https://deutsches-schulportal.de/bildungswesen/laenderueberblick-umfrage-lehrermangel-pensionierte-lehrer/ (accessed on 5 August 2026).
 
 - Diário de Notícias (2024), "Governo queria 200 professores reformados nas escolas. Regressam 63", dn.pt, 3 December 2024, https://www.dn.pt/5687900830/governo-queria-200-professores-reformados-nas-escolas-regressam-63 (accessed on 4 August 2026).
 
@@ -124,7 +124,7 @@ Master reference list for "Former Teachers: Barriers, Incentives and Policy Less
 
 - New Zealand Legislation (2020), *Education and Training Act 2020*, No 38, Schedule 3, https://www.legislation.govt.nz/act/public/2020/0038/latest/LMS261224.html (accessed on 4 August 2026).
 
-- New Zealand Ministry of Education (2026), "Looking for a relief teacher", Education Workforce website, Te Tāhuhu o te Mātauranga, updated 18 June 2026, https://workforce.education.govt.nz/principals-and-schools/local-employment-and-recruitment-support/looking-relief-teacher (accessed on 4 August 2026). [CHECK: cited as "Ministry of Education (2026)" in Chapters 4A and 5 but as "New Zealand Ministry of Education (2026)" in Chapter 4B — harmonise the in-text key to one form (this list uses the country-qualified form to avoid confusion with the Chinese and Bahamian ministries).]
+- New Zealand Ministry of Education (2026), "Looking for a relief teacher", Education Workforce website, Te Tāhuhu o te Mātauranga, updated 18 June 2026, https://workforce.education.govt.nz/principals-and-schools/local-employment-and-recruitment-support/looking-relief-teacher (accessed on 4 August 2026).
 
 - Nguyen, T. D., E. Bettini, C. Redding and A. F. Gilmour (2025), "Comparing Teacher Turnover Intentions to Actual Turnover: Cautions and Lessons for the Field", *Educational Evaluation and Policy Analysis*, https://journals.sagepub.com/doi/abs/10.3102/01623737241249459.
 
@@ -150,15 +150,15 @@ Master reference list for "Former Teachers: Barriers, Incentives and Policy Less
 
 - OECD (2020), *TALIS 2018 Results (Volume II): Teachers and School Leaders as Valued Professionals*, TALIS, OECD Publishing, Paris, https://doi.org/10.1787/19cf08df-en (report page: https://www.oecd.org/en/publications/talis-2018-results-volume-ii_19cf08df-en.html).
 
-- OECD (2023), *PISA 2022 Results (Volume I): The State of Learning and Equity in Education*, PISA, OECD Publishing, Paris, https://doi.org/10.1787/53f23881-en (report page: https://www.oecd.org/en/publications/pisa-2022-results-volume-i_53f23881-en.html).
+- OECD (2023a), *PISA 2022 Results (Volume I): The State of Learning and Equity in Education*, PISA, OECD Publishing, Paris, https://doi.org/10.1787/53f23881-en (report page: https://www.oecd.org/en/publications/pisa-2022-results-volume-i_53f23881-en.html) (accessed on 5 August 2026).
 
-- OECD (2023), *PISA 2022 Results (Volume II): Learning During – and From – Disruption*, PISA, OECD Publishing, Paris, https://doi.org/10.1787/a97db61c-en (accessed on 5 August 2026).
+- OECD (2023b), *PISA 2022 Results (Volume II): Learning During – and From – Disruption*, PISA, OECD Publishing, Paris, https://doi.org/10.1787/a97db61c-en (accessed on 5 August 2026).
 
 - OECD (2024), *Education Policy Outlook 2024: Reshaping Teaching into a Thriving Profession from ABCs to AI*, OECD Publishing, Paris, https://doi.org/10.1787/dd5140e4-en (accessed on 5 August 2026).
 
-- OECD (2025), *Education at a Glance 2025: OECD Indicators*, OECD Publishing, Paris, https://doi.org/10.1787/1c0d9c79-en (accessed on 5 August 2026).
+- OECD (2025a), *Education at a Glance 2025: OECD Indicators*, OECD Publishing, Paris, https://doi.org/10.1787/1c0d9c79-en (accessed on 5 August 2026).
 
-- OECD (2025), *Results from TALIS 2024: The State of Teaching*, TALIS, OECD Publishing, Paris, https://doi.org/10.1787/90df6235-en (accessed on 5 August 2026).
+- OECD (2025b), *Results from TALIS 2024: The State of Teaching*, TALIS, OECD Publishing, Paris, https://doi.org/10.1787/90df6235-en (accessed on 5 August 2026).
 
 - Ontario Ministry of Education (2022), *Memorandum 2022:SB01 – Temporary Amendment to the Ontario Teachers' Pension Plan (OTPP) 95 Day Re-Employment Rule for the 2021-22 School Year – Reporting Requirements*, 24 January 2022, https://efis.fma.csc.gov.on.ca/faab/Memos/SB2022/SB01_EN.pdf (accessed on 4 August 2026).
 
@@ -172,9 +172,9 @@ Master reference list for "Former Teachers: Barriers, Incentives and Policy Less
 
 - Rechnungshof (2025), *Lehrpersonaleinsatz*, Bericht des Rechnungshofes, Reihe Bund 2025/18, Rechnungshof Österreich, Vienna, https://www.rechnungshof.gv.at/rh/home/home/2025_18_Lehrpersonaleinsatz.pdf (accessed on 4 August 2026).
 
-- Renascença (2024), "55 professores aposentados podem dar aulas a partir de janeiro", rr.pt, 19 December 2024, https://rr.pt/noticia/pais/2024/12/19/55-professores-aposentados-podem-dar-aulas-a-partir-de-janeiro/406679/ (accessed on 4 August 2026). [CHECK: Chapter 3 cites this article as "Renascença (2024b)" (the research base distinguishes a 2024a September article that no chapter cites), while Chapter 4A cites it as "Renascença (2024)". Only this one Renascença item is in the list, so the "b" suffix should either be dropped in Chapter 3 or the 2024a entry added if the team wants both.]
+- Renascença (2024), "55 professores aposentados podem dar aulas a partir de janeiro", rr.pt, 19 December 2024, https://rr.pt/noticia/pais/2024/12/19/55-professores-aposentados-podem-dar-aulas-a-partir-de-janeiro/406679/ (accessed on 4 August 2026).
 
-- Resch, K. (2025), "Retired teachers return to school to tackle teacher shortages in Austrian schools. An untapped reserve or emergency response?", *European Journal of Teacher Education*, advance online publication, 10 July 2025, https://doi.org/10.1080/02619768.2025.2531930 (accessed on 5 August 2026).
+- Resch, K. (2025a), "Retired teachers return to school to tackle teacher shortages in Austrian schools. An untapped reserve or emergency response?", *European Journal of Teacher Education*, advance online publication, 10 July 2025, https://doi.org/10.1080/02619768.2025.2531930 (accessed on 5 August 2026).
 
 - Resch, K. (2025b), "Die Rückkehr von pensionierten Lehrpersonen in den Schuldienst als berufsbiographisches Ereignis", *Zeitschrift für Bildungsforschung*, published online 12 November 2025, https://doi.org/10.1007/s35834-025-00519-z (accessed on 5 August 2026).
 
@@ -192,9 +192,9 @@ Master reference list for "Former Teachers: Barriers, Incentives and Policy Less
 
 - Sims, S., H. Lowes-Belk and C. Routledge (2026), "Why do people choose to enter and exit the teaching profession? An interdisciplinary quantitative synthesis", *British Educational Research Journal*, Vol. 52/3, pp. 1652-1676, published online 24 October 2025, https://doi.org/10.1002/berj.70027 (accessed on 5 August 2026).
 
-- Somers, M., L. Fleck, W. Groot and F. van Merode (2024), *The Hidden Reserve of Nurses and Teachers in the Netherlands*, ROA Research Memorandum No. 2024/004E, Research Centre for Education and the Labour Market, Maastricht University, https://doi.org/10.26481/umaror.2024004E (accessed on 4 August 2026). [CHECK: memorandum number rendered "No. 004E" in Chapter 2 and lit_reserve.md, "No. 2024/004E" in Chapter 3 and fix_hilda_fleck.md; the DOI suffix (umaror.2024004E) supports the year-qualified form used here, but confirm against the ROA cover page.]
+- Somers, M., L. Fleck, W. Groot and F. van Merode (2024a), *The Hidden Reserve of Nurses and Teachers in the Netherlands*, ROA Research Memorandum No. 2024/004E, Research Centre for Education and the Labour Market, Maastricht University, https://doi.org/10.26481/umaror.2024004E (accessed on 4 August 2026).
 
-- Somers, M., W. Groot and F. van Merode (2024), "Stille reserve voldoende om personeelstekort onderwijs op te lossen", *ESB (Economisch Statistische Berichten)*, 28 February 2024, https://esb.nu/stille-reserve-voldoende-om-personeelstekort-onderwijs-op-te-lossen/ (accessed on 4 August 2026).
+- Somers, M., W. Groot and F. van Merode (2024b), "Stille reserve voldoende om personeelstekort onderwijs op te lossen", *ESB (Economisch Statistische Berichten)*, 28 February 2024, https://esb.nu/stille-reserve-voldoende-om-personeelstekort-onderwijs-op-te-lossen/ (accessed on 4 August 2026).
 
 - State Council (2023), 教育部教师工作司负责人就《国家银龄教师行动计划》答记者问 [MOE Teacher Affairs Department Q&A on the National Silver Age Teachers Action Plan], www.gov.cn, August 2023, https://www.gov.cn/zhengce/202308/content_6900976.htm.
 
@@ -247,7 +247,7 @@ Master reference list for "Former Teachers: Barriers, Incentives and Policy Less
 ## Compiler notes
 
 1. **Count**: 121 entries.
-2. **[CHECK] flags** (6): Department for Education (2025) x2 — same-author-same-year disambiguation needed in Chapter 2, and the Working Lives entry is a composite (DfE survey series + SecEd press rendering); Deutsches Schulportal (2023) — title variant in Chapter 2 vs the fix-file-verified title used here; New Zealand Ministry of Education (2026) — in-text author key differs across Chapters 4A/5 and 4B; Renascença (2024) — Chapter 3 cites "2024b" but only one Renascença item is in the list; Somers et al. (2024, ROA) — memorandum number "004E" vs "2024/004E".
-3. **Somers/Fleck team outputs kept distinct** (three publications): Somers, Groot and van Merode (2024, ESB); Somers, Fleck, Groot and van Merode (2024, ROA Research Memorandum); Fleck, Somers, Stolp, Groot, van Merode and de Vries (2025, De Economist).
+2. **[CHECK] flags — all resolved (6 August 2026)**: Department for Education (2025) disambiguated as 2025a (School Workforce) / 2025b (Working Lives) here and in-text; the Working Lives entry kept as one entry with the SecEd rendering noted (no separate SecEd citation exists in-text); Deutsches Schulportal (2023) — Chapter 2's REFERENCES USED entry harmonised to the verified title used here; New Zealand Ministry of Education (2026) — in-text keys harmonised to the country-qualified form; Renascença (2024) — single un-suffixed entry kept (only one item cited; no in-text suffix remains); Somers et al. (2024, ROA) — memorandum number standardised as "No. 2024/004E" (DOI-backed form) here and in-text. Same-author-same-year pairs now carry a/b suffixes throughout: OECD (2023a/2023b), OECD (2025a/2025b), Department for Education (2025a/2025b), Somers (2024a ROA / 2024b ESB), Resch (2025a/2025b).
+3. **Somers/Fleck team outputs kept distinct** (three publications): Somers, Groot and van Merode (2024b, ESB); Somers, Fleck, Groot and van Merode (2024a, ROA Research Memorandum); Fleck, Somers, Stolp, Groot, van Merode and de Vries (2025, De Economist).
 4. **Superseded renderings verified absent**: no "De Nobile", no "Wieser", no Michigan "2020 Preliminary Findings", no Portugal "EUR 750 for returners" framing, no Austria "dozens" source; the WestEd pension-savings entry and the Feygin/AIR personal communication are excluded (not cited in any chapter).
 5. Rendering merges applied without flags (resolved from research files): Buchanan et al. (2018) — canonical cases_england_nz.md rendering (NFER report for the DfE, London; gov.uk full-report PDF plus NFER report page); Jarrold-Grapes and Mahler (2024) — Vol. 32, No. 4 confirmed in cases_us_legislation.md; Lindsay et al. (2021) — ERIC full-text PDF with Study Snapshot; Carlson et al. (2015) and Fried et al. (2004) — DOI URLs preferred; Georgia audit — full subtitle from Chapter 4B; BMBWF (2023) — full fix_austria_portugal.md rendering; Resch (2025)/(2025b) suffixes retained as cited in Chapters 3 and 4A.
