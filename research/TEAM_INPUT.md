@@ -40,3 +40,5 @@ New structure (replaces the current five-chapter layout):
 - Chapter 3. Re-entry policies in practice: international experience — THE CENTRAL CHAPTER. Selected cases from the team's Excel. Sections 3.1 Programmes and 3.2 Regulation.
 - Chapter 4. Lessons and recommendations for policymakers.
 - References.
+
+Addendum (lead author, 6 August 2026): the restructure is NOT a reorganisation of the existing draft. The paper is to be REWRITTEN FROM SCRATCH ("todo de nuevo") with the programmes as the new focus. Writers must not copy or lightly edit paragraphs from the superseded draft; they write fresh prose. The verified research files remain the only permissible factual base, and the superseded draft may be consulted solely as an index of verified facts and citation renderings, never as prose to reuse. The programme compilation (international experience) is the centre of gravity: it gets the largest share of the paper, and Chapters 1-2 are written as the shortest path that sets it up.
