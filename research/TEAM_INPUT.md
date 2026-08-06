@@ -22,3 +22,5 @@ Binding rules for all writing:
 - Context-dependence is a caveat deployed when there is no basis to generalise, or a reason to generalise with caution. It is never the headline, never the opening move of a chapter, and never a substitute for a conclusion.
 - Do not open chapters with "it depends", "the answer varies", "context matters" or equivalents. Do not close recommendations by dissolving them into "each system must decide".
 - Where the evidence is genuinely split across countries (e.g. the weight of intrinsic vs extrinsic exit motives), state the split as a finding with numbers, not as an excuse.
+
+Reaffirmed by the lead author on 6 August 2026, verbatim intent: "lo de 'depende' NO ES LA PREMISA — si no, sería un paper sin huevos. Es algo a tener en cuenta para matizar cuando no haya evidencia para generalizar, o para generalizar con cautela, y ya." Writers of chapters 4-5, the integrating editor and the style checker must apply this: strong positions first, context only as a calibrated caveat.
