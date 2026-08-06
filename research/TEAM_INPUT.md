@@ -24,3 +24,19 @@ Binding rules for all writing:
 - Where the evidence is genuinely split across countries (e.g. the weight of intrinsic vs extrinsic exit motives), state the split as a finding with numbers, not as an excuse.
 
 Reaffirmed by the lead author on 6 August 2026, verbatim intent: "lo de 'depende' NO ES LA PREMISA — si no, sería un paper sin huevos. Es algo a tener en cuenta para matizar cuando no haya evidencia para generalizar, o para generalizar con cautela, y ya." Writers of chapters 4-5, the integrating editor and the style checker must apply this: strong positions first, context only as a calibrated caveat.
+
+## 3. Premise correction and restructure (lead author, 6 August 2026 — OVERRIDES the current draft's framing)
+
+The current draft's premise is WRONG. It must not claim, imply, or be organised around the idea that re-attracting former teachers can close teacher shortages. That claim is false ("falsísimo"). Binding rules:
+
+- Re-entry is a MODEST MARGIN of the response to shortages, and the paper says so explicitly and early. The reserve-vs-shortage arithmetic (e.g. the Dutch 22% calculation) may be reported as context but never as the paper's promise.
+- Former teachers matter PER SE: the focus is the group of people, their experience and what they bring back to the profession — classroom craft, curriculum knowledge, mentoring capacity; there is an explicit overlap with career/veteran teachers. This is why they deserve their own analysis, independent of shortage arithmetic.
+- The paper is sold as a POLICY PAPER: it compiles and makes salient re-entry programmes and the lessons learned across many countries. The international-experience chapter is the CENTRE of the paper, and everything else feeds it.
+
+New structure (replaces the current five-chapter layout):
+- Front matter: Acknowledgements / Abstract (+ Résumé) / Key Take-Aways.
+- Chapter 1. Introduction — why former teachers matter and merit their own analysis; the magnitude of shortages and re-entry as one PART of the answer (a modest margin, said openly); who exactly former teachers are (retirees; people out of the labour market; job switchers); what the paper does, on what evidence, what it adds, and what former teachers can bring back.
+- Chapter 2. Why teachers leave and where they go — who leaves, at what career stage, how much is voluntary vs forced (one or two well-documented country examples); the reasons and their relative weights (workload, salary, leadership, conditions, life events) per the literature; where leavers actually go (other sectors, other countries, early retirement, care work at home); what former teachers themselves say would bring them back (survey-based reports such as Michigan's); how much of that is money vs workload, autonomy, flexibility and control over time; whether return motivation differs by why and when they left; what genuinely tips the decision vs what policymakers assume. This chapter ABSORBS the old Chapter 3. It must also contain a proper treatment of the former teachers themselves as a population (characteristics, what they carry), not just exit statistics.
+- Chapter 3. Re-entry policies in practice: international experience — THE CENTRAL CHAPTER. Selected cases from the team's Excel. Sections 3.1 Programmes and 3.2 Regulation.
+- Chapter 4. Lessons and recommendations for policymakers.
+- References.
