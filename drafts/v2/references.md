@@ -1,6 +1,6 @@
 # References
 
-Master reference list for "Former Teachers: Barriers, Incentives and Policy Lessons for Re-entry" (integrated draft, drafts/v2/paper_integrated.md). Compiled 6 August 2026 from the sources cited in Chapters 1-4; entries rendered as verified in drafts/references.md. Alphabetical by author; OECD Education Working Paper format. Disambiguation suffixes match the in-text keys (OECD 2023b; OECD 2025a/2025b; Department for Education 2025a/2025b; Somers 2024a/2024b; Resch 2025a/2025b; Ministerie van OCW 2019a/2019b). Uncited entries from the 5 August compilation are dropped (Clotfelter 2008; NCES 2023; OECD 2023a; OSSTF n.d.; Sims and Benhenda 2022; Watt et al. 2012); the two Nippon.com items, cited in Chapter 3, are retained. Count: 115 entries.
+Master reference list for "Former Teachers: Barriers, Incentives and Policy Lessons for Re-entry" (integrated draft, drafts/v2/paper_integrated.md). Compiled 6 August 2026 from the sources cited in Chapters 1-4; entries rendered as verified in drafts/references.md. Alphabetical by author; OECD Education Working Paper format. Disambiguation suffixes match the in-text keys (OECD 2025a/2025b; Department for Education 2025a/2025b; Somers 2024a/2024b; Resch 2025a/2025b; Ministerie van OCW 2019a/2019b). Uncited entries from the 5 August compilation are dropped (Clotfelter 2008; NCES 2023; OECD 2023a; OSSTF n.d.; Sims and Benhenda 2022; Watt et al. 2012); the two Nippon.com items, cited in Chapter 3, are retained. Count: 115 entries.
 
 - AARP (2025), "AARP Foundation Experience Corps Celebrates 30 Years", AARP, Washington, DC, https://www.aarp.org/advocacy/experience-corps-celebrates-30-years-2025/.
 
@@ -146,7 +146,7 @@ Master reference list for "Former Teachers: Barriers, Incentives and Policy Less
 
 - OECD (2020), *TALIS 2018 Results (Volume II): Teachers and School Leaders as Valued Professionals*, TALIS, OECD Publishing, Paris, https://doi.org/10.1787/19cf08df-en (report page: https://www.oecd.org/en/publications/talis-2018-results-volume-ii_19cf08df-en.html).
 
-- OECD (2023b), *PISA 2022 Results (Volume II): Learning During – and From – Disruption*, PISA, OECD Publishing, Paris, https://doi.org/10.1787/a97db61c-en (accessed on 5 August 2026).
+- OECD (2023), *PISA 2022 Results (Volume II): Learning During – and From – Disruption*, PISA, OECD Publishing, Paris, https://doi.org/10.1787/a97db61c-en (accessed on 5 August 2026).
 
 - OECD (2024), *Education Policy Outlook 2024: Reshaping Teaching into a Thriving Profession from ABCs to AI*, OECD Publishing, Paris, https://doi.org/10.1787/dd5140e4-en (accessed on 5 August 2026).
 
