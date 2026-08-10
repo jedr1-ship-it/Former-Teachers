@@ -82,3 +82,12 @@ The spine in research/ARGUMENT_SPINE.md is approved with two amendments, which o
 **Amendment 2 — the reserve is badly measured and overestimated, not non-existent.** P1 retreats from "there is no such thing as the reserve" to the defensible and still-sharp claim that reserve figures are register artefacts, systematically overestimated, and not net of deductions the registers themselves can compute. The paper does not deny that a real pool exists; it denies that published figures measure it, and it shows what a properly netted figure would require. All other propositions (P2, P3, P5, P6) stand as written, including the salary-step argument and the accountability argument.
 
 Consequence for tone: the paper's landing is diagnostic and constructive rather than deflationary. It still refuses to sell re-entry as a supply fix.
+
+## 7. Amendment 3 (lead author, 7 August 2026): the paper argues in the affirmative
+
+A thesis cannot be a negation. "Former teachers are NOT a reserve" is a rebuttal of somebody else's framing, not a claim of our own, and it is not a way to build a paper. Binding on the thesis, on every proposition, on every chapter proposition and on every section lede:
+
+- State what former teachers ARE and what re-entry policy IS. The paper's claims are positive claims about its object.
+- A negation may appear later, inside discussion, where it does real work against a specific misreading. It may never be the thesis, a proposition headline, a chapter proposition, or the opening move of a section.
+- The "X, not Y" contrastive frame documented in the OECD corpus is permitted only where X is the claim and Y is a brief corrective tail. The affirmative element must carry the sentence.
+- Applies retroactively to Amendment 2: P1 is written as what the actionable count IS and how a register produces it, not as what published figures fail to be.
