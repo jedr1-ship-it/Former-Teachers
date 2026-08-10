@@ -72,3 +72,13 @@ What this requires:
 - Evidence earns its place by what it settles. Cases are demoted to evidence for propositions, per section 4.
 
 PROCESS CONSEQUENCE: the argument architecture is built and approved BEFORE any prose is written. No chapter drafting begins until the lead author has seen and agreed the spine.
+
+## 6. Lead author's rulings on the argument spine (7 August 2026) — binding amendments
+
+The spine in research/ARGUMENT_SPINE.md is approved with two amendments, which override the spine wherever they conflict.
+
+**Amendment 1 — P4 is reframed as a measurement gap, not a verdict on craft.** The tutoring/mentoring asymmetry (structured tutoring at a specified dose shows effects; retiree mentoring of novices does not) must NOT be written as evidence that former teachers' accumulated judgement is worth little, nor as a verdict against the craft rationale. It is written as a gap in what has been measured about the DESIGNED ROLE: the trials that exist tested one deployment well and the other badly or not at all, and the craft rationale remains unevaluated rather than refuted. The paper states what would settle it (linking returner records to the classes and colleagues they work with; trials of designed roles at specified dose) and asks for that measurement. The per-se premise of section 3 stands.
+
+**Amendment 2 — the reserve is badly measured and overestimated, not non-existent.** P1 retreats from "there is no such thing as the reserve" to the defensible and still-sharp claim that reserve figures are register artefacts, systematically overestimated, and not net of deductions the registers themselves can compute. The paper does not deny that a real pool exists; it denies that published figures measure it, and it shows what a properly netted figure would require. All other propositions (P2, P3, P5, P6) stand as written, including the salary-step argument and the accountability argument.
+
+Consequence for tone: the paper's landing is diagnostic and constructive rather than deflationary. It still refuses to sell re-entry as a supply fix.
