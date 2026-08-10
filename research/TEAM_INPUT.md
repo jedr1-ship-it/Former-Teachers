@@ -52,3 +52,23 @@ The v2 draft is rejected. The research base and the verified numbers stand; the 
 3. **The prose fetishises numbers.** Statistics are recited in running text where OECD papers would state a proposition and send the reader to a table. The lead author specifically doubts that OECD publications load abstracts and introductions with figures the way we did.
 
 Consequence: everything in drafts/v2 is superseded. The rewrite starts from zero prose, governed by research/style_voice.md (an empirical study of how OECD education publications actually write), which overrides earlier style files on any question of prose. No sentence may be carried over from v1 or v2.
+
+## 5. The real diagnosis: no argument (lead author, 7 August 2026) — supersedes the framing of section 4
+
+Section 4 blamed voice and tone. The lead author has clarified that the failure is one of CONTENT AND SYNTHESIS, not register:
+
+"Has hecho una buena revisión de literatura, pero fallas en cómo presentar lo que encuentras. Estás sacando cosas importantes pero no has hilado una historia con esos resultados. Te has quedado en el fetiche de transmitir tal cual todos los números y con detalle lo que hay en cada paper, el fetiche de enumerar sin discutir; y cuando comparas, solo contrastas números sin pensar e ir más allá, sin poner todo a dialogar con ideas."
+
+What this forbids:
+- Enumeration in place of discussion. A paragraph that reports what a study found and stops has failed. Every finding must be made to answer a question the paper has posed.
+- Comparison by number-contrast. Reporting that country A got X and country B got Y is not comparison. Comparison explains WHY they differ, naming the institutional or design feature that does the causal work.
+- Paper-by-paper or programme-by-programme exposition. The literature is raw material for an argument, never the organising principle.
+- Detail for completeness. If a number does not move an argument forward, it belongs in a table or nowhere.
+
+What this requires:
+- The paper carries a THESIS, and each chapter carries a proposition that serves it. Sections are argued, not surveyed.
+- Findings are put in dialogue: with each other, with the paper's concepts, and with what policymakers assume. Tensions and anomalies are the most valuable material and must be surfaced, not smoothed.
+- Mechanisms over magnitudes. The paper explains how and why re-entry works or fails, and uses magnitudes to size the mechanism.
+- Evidence earns its place by what it settles. Cases are demoted to evidence for propositions, per section 4.
+
+PROCESS CONSEQUENCE: the argument architecture is built and approved BEFORE any prose is written. No chapter drafting begins until the lead author has seen and agreed the spine.
