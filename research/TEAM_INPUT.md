@@ -91,3 +91,8 @@ A thesis cannot be a negation. "Former teachers are NOT a reserve" is a rebuttal
 - A negation may appear later, inside discussion, where it does real work against a specific misreading. It may never be the thesis, a proposition headline, a chapter proposition, or the opening move of a section.
 - The "X, not Y" contrastive frame documented in the OECD corpus is permitted only where X is the claim and Y is a brief corrective tail. The affirmative element must carry the sentence.
 - Applies retroactively to Amendment 2: P1 is written as what the actionable count IS and how a register produces it, not as what published figures fail to be.
+
+## 8. Final pre-writing directives (lead author, 10 August 2026)
+
+1. **Shortages get a passing mention, no more.** The paper of course acknowledges recruitment pressure — the OECD corpus does the same — but always in passing: unquantified, one clause or one sentence at a time, never the motivation of the paper, the abstract, a chapter or a section. (Consistent with the voice study: supply pressure appears as one term in a compound of drivers, with the grammatical subject being what systems are doing.)
+2. **The bar is CONTENT, not just register.** The lead author's explicit concern is whether the paper can argue like an OECD policy paper in substance. Token budget is explicitly unlimited for this. Consequence for process: every chapter passes a quality gate of independent judges (argument quality; OECD content architecture; spine and factual fidelity) and is revised until it passes. A chapter that enumerates, contrasts numbers without explaining, or leads with cases does not leave the gate.
