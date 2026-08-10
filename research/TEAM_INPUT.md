@@ -42,3 +42,13 @@ New structure (replaces the current five-chapter layout):
 - References.
 
 Addendum (lead author, 6 August 2026): the restructure is NOT a reorganisation of the existing draft. The paper is to be REWRITTEN FROM SCRATCH ("todo de nuevo") with the programmes as the new focus. Writers must not copy or lightly edit paragraphs from the superseded draft; they write fresh prose. The verified research files remain the only permissible factual base, and the superseded draft may be consulted solely as an index of verified facts and citation renderings, never as prose to reuse. The programme compilation (international experience) is the centre of gravity: it gets the largest share of the paper, and Chapters 1-2 are written as the shortest path that sets it up.
+
+## 4. Draft v2 rejected on WRITING grounds (lead author, 7 August 2026) — full rewrite from zero
+
+The v2 draft is rejected. The research base and the verified numbers stand; the PROSE does not. Three charges, all binding on the rewrite:
+
+1. **The abstract must not motivate the paper with teacher shortages.** Shortages are not the paper's reason for existing. Opening on them frames former teachers as a staffing remedy, which is precisely the premise already rejected in section 3.
+2. **A policy paper sells general conclusions, not individual cases.** Our draft is organised case by case and reads as a catalogue. Cases are EVIDENCE for propositions; they are never the organising unit and never the point. The argument must be legible without any single case.
+3. **The prose fetishises numbers.** Statistics are recited in running text where OECD papers would state a proposition and send the reader to a table. The lead author specifically doubts that OECD publications load abstracts and introductions with figures the way we did.
+
+Consequence: everything in drafts/v2 is superseded. The rewrite starts from zero prose, governed by research/style_voice.md (an empirical study of how OECD education publications actually write), which overrides earlier style files on any question of prose. No sentence may be carried over from v1 or v2.
