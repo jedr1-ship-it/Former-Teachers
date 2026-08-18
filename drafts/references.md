@@ -62,6 +62,8 @@ Master reference list for "Former Teachers: Barriers, Incentives and Policy Less
 
 - DUO (2026), "Stille reserve oud-leraren in het onderwijs afgelopen 10 jaar afgenomen", press release, 28 May 2026, Dienst Uitvoering Onderwijs, https://duo.nl/organisatie/pers/stille-reserve-oud-leraren-in-het-onderwijs-afgelopen-10-jaar-afgenomen.jsp (accessed on 4 August 2026).
 
+- European Commission (2023), *Education and Training Monitor 2023: Comparative Report*, Publications Office of the European Union, Luxembourg, https://op.europa.eu/webpub/eac/education-and-training-monitor-2023/ (accessed on 4 August 2026).
+
 - Feng, L. and T. Sass (2018), "The impact of incentives to recruit and retain teachers in 'hard-to-staff' subjects", *Journal of Policy Analysis and Management*, Vol. 37/1, pp. 112-135, https://onlinelibrary.wiley.com/doi/10.1002/pam.22037 (accessed on 4 August 2026).
 
 - Fitzpatrick, M. D. (2015), "How much are public school teachers willing to pay for their retirement benefits?", *American Economic Journal: Economic Policy*, Vol. 7/4, https://www.aeaweb.org/articles?id=10.1257/pol.20140087 (accessed on 4 August 2026).
