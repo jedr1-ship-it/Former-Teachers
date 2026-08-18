@@ -22,8 +22,6 @@
 
 - Buchanan, E., C. Sharp, J. Worth, K. Martin, S. Bamford and Z. Des Clayes (2018), *Evaluation of the Return to Teaching Pilot Programme*, National Foundation for Educational Research report for the Department for Education, London, https://assets.publishing.service.gov.uk/media/5b33aeef40f0b67f6744de9d/Evaluation_of_the_Return_to_Teaching_pilot_programme.pdf (report page: https://www.nfer.ac.uk/publications/evaluation-of-the-return-to-teaching-pilot-programme/) (accessed on 4 August 2026).
 
-- Carlson, M. C. et al. (2015), "Impact of the Baltimore Experience Corps Trial on cortical and hippocampal volumes", *Alzheimer's & Dementia*, Vol. 11/11, pp. 1340-1348, https://doi.org/10.1016/j.jalz.2014.12.005 (accessed on 4 August 2026).
-
 - Commonwealth of Virginia (2023), 2023 Acts of Assembly, Chapter 708 (SB 1479; return to work, approved 27 March 2023), https://law.lis.virginia.gov/uncodifiedacts/2023/session1/chapter708/ (accessed on 4 August 2026).
 
 - Cooper, I. C. (2026), "Statement by the Minister of Education DPM Chester Cooper on the recruitment of up to 300 teachers", ministerial statement, Ministry of Education, Science and Technology, Nassau, 12 July 2026, reproduced by *Bahamas Press*, https://www.bahamaspress.com/statement-by-the-minister-of-education-dpm-chester-cooper-on-the-recruitment-of-upto-300-teachers/.
@@ -53,8 +51,6 @@
 - European Commission (2023), *Education and Training Monitor 2023: Comparative Report*, Publications Office of the European Union, Luxembourg, https://op.europa.eu/webpub/eac/education-and-training-monitor-2023/ (accessed on 4 August 2026).
 
 - Fitzpatrick, M. D. (2015), "How much are public school teachers willing to pay for their retirement benefits?", *American Economic Journal: Economic Policy*, Vol. 7/4, https://www.aeaweb.org/articles?id=10.1257/pol.20140087 (accessed on 4 August 2026).
-
-- Fried, L. P. et al. (2004), "A social model for health promotion for an aging population: Initial evidence on the Experience Corps model", *Journal of Urban Health*, Vol. 81/1, pp. 64-78, https://doi.org/10.1093/jurban/jth094 (accessed on 4 August 2026).
 
 - Fuchs, L. S., D. L. Compton, D. Fuchs, K. Paulsen, J. D. Bryant and C. L. Hamlett (2005), "The prevention, identification, and cognitive determinants of math difficulty", *Journal of Educational Psychology*, Vol. 97/3, pp. 493-513, https://doi.org/10.1037/0022-0663.97.3.493.
 
@@ -191,8 +187,6 @@
 - Virginia Retirement System (n.d.), "Critical Shortage Positions", https://www.varetire.org/retiree-milestones/working-after-retirement/critical-shortage-positions/ (accessed on 4 August 2026).
 
 - Walker, A. (2022), "DfE scheme to lure back physics teachers recruits just 23 in two years", *Schools Week*, 13 September 2022, https://schoolsweek.co.uk/dfe-scheme-to-lure-back-physics-teachers-recruits-just-23-in-two-years/.
-
-- Watt, H. M. G., P. W. Richardson, U. Klusmann, M. Kunter, B. Beyer, U. Trautwein and J. Baumert (2012), "Motivations for choosing teaching as a career: An international comparison using the FIT-Choice scale", *Teaching and Teacher Education*, Vol. 28/6, pp. 791-805, https://www.sciencedirect.com/science/article/abs/pii/S0742051X12000479.
 
 - What Works Clearinghouse (2019), *Review of Individual Study: DeCesare, McClelland and Randel (2017)* (Study #88756, reviewed August 2019, Standards and Protocol 4.0), Institute of Education Sciences, U.S. Department of Education, Washington, DC, https://ies.ed.gov/ncee/wwc/Study/88756 (accessed on 5 August 2026).
 
