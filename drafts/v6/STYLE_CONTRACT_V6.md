@@ -155,3 +155,64 @@ policymakers, practitioners, journalists. Annexes only if essential, never as ov
 anti-self-reference hunting pass; (c) fact verification against the base; (d) both-ways
 citation audit; (e) standard-conformity check (§6); (f) single-reader coherence pass
 start to finish.
+
+## 9. SECTION 3 STRUCTURE (added after the lead author judged the section "a soup")
+The section must be visibly structured. Fixed skeleton, no deviation:
+
+**Per family subsection (3.1 to 3.5):**
+1. LEAD (two paragraphs, no more): what governments seek with this family; what component of
+   the return decision it changes; which systems have used it. No cases yet.
+2. CASES, each as its own paragraph block opened by a bold run-in country name
+   ("**North Carolina.**" / "**Portugal.**"), ordered from best-documented to least. Each case
+   block follows the same internal order, in flowing prose, never as labels or bullets:
+   (a) one sentence of system context (why this system did this, when);
+   (b) the mechanism, precisely, with its legal instrument;
+   (c) what was counted, with its denominator, or "no take-up has been published";
+   (d) what the evidence supports, hedged, including any evaluation, audit or study with its
+       method; and what it cannot support.
+   Length per case: 120-220 words. The best-documented two or three cases per family may run
+   longer; marginal cases may be one or two sentences inside a grouping paragraph
+   ("Comparable provisions operate in X, Y and Z, none of which publishes take-up.").
+3. CLOSING PARAGRAPH: what the family as a whole teaches, formulated academically, and the
+   hand-off to the next family. One paragraph.
+
+**Rules that kill the soup:**
+- No case appears outside its family. No family's argument is made twice.
+- Every case block answers the same four questions in the same order, so a policymaker can
+  compare across cases by position in the paragraph.
+- Numbers in prose only when they carry the case's point; parameters go to Table 3, counts to
+  Table 4; each display cited parenthetically once.
+- Cross-references to other families use the family letter ("as in Family A").
+- Tables are SIMPLE by order of the lead author: motives table carries motives only; every
+  other table carries at most three or four short columns, cells of a few words. Everything
+  else lives in the prose.
+
+
+## 10. CLASSIFICATION OF POLICIES (replaces the rejected five families A-E)
+Primary axis: the sequence of the return decision. Four families, mutually exclusive:
+
+1. PERMISSION — whether a former teacher may return at all: licence validity, lapse and
+   refresh requirements, waiting periods, service thresholds, subject or geography
+   restrictions, and day or earnings caps that rule out a full return.
+   Owner: professional regulators and pension legislation. Motive addressed: life-cycle and
+   administrative barriers.
+2. PRICE — what returning produces financially: pension-salary concurrency and abatement,
+   the salary step on re-entry (seniority crediting), bonuses, subsidies and allowances,
+   paid to the teacher or to the school. Owner: pension, civil-service and finance
+   authorities. Motive: economic.
+3. THE JOB — the shape of what is offered: full-time against part-time, job-share, supply
+   and reserve pools, and defined roles such as tutoring or mentoring. Owner: employers and
+   schools. Motive: environmental (workload, hours, control of time), the motive the
+   evidence ranks highest.
+4. REACH — how former teachers learn of the offer and are helped through it: contact from
+   employer records, return advisers, refresher training, application support. Owner:
+   education ministries and their agencies. Motive: none; it is the channel, which is part
+   of why its measured yield is weak.
+
+Secondary attributes, carried as COLUMNS in the navigation table, never as families:
+beneficiary (the returning teacher, the school, students, new teachers) and institutional
+owner of the lever. The closing of Section 3 ranks the families by documented scale of
+return; the subsections themselves run in decision order (1 to 4).
+Cases are assigned to the family whose question they answer. A case touching two families
+(a statute that both permits and prices) is discussed in full where its principal effect
+lies and cross-referenced once from the other.
