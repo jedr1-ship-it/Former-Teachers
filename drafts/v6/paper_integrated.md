@@ -403,8 +403,6 @@ Encouraging the re-entry of former teachers is consistent with a view of teachin
 
 - Department for Education (2025a), *School Workforce in England: Reporting Year 2024*, Explore Education Statistics, London, https://explore-education-statistics.service.gov.uk/find-statistics/school-workforce-in-england/2024.
 
-- Department for Education (2025b), *Working Lives of Teachers and Leaders* survey series (2022-2024 waves), Department for Education, London; figures cited as reported in SecEd (2025), "Teachers' working hours fall – to 48.1 a week", https://www.sec-ed.co.uk/content/news/teachers-weekly-working-hours-48-a-week.
-
 - Department of Education (2019), *Circular 0054/2019 – Leave Schemes for Registered Teachers Employed in Recognised Primary and Post Primary Schools*, Department of Education, Dublin, https://assets.gov.ie/static/documents/Circular_0054.2019.pdf (accessed on 4 August 2026).
 
 - Department of Education and Youth (2025), *Information Note TC/IN 0005/2025 – Temporary changes to the Career Break Scheme for Registered Teachers employed in Recognised Primary and Post Primary Schools – 2025/26 School Year*, Department of Education and Youth, Dublin, 26 June 2025, https://assets.gov.ie/static/documents/TC.IN_0005.2025_Information_Note_Career_Break_for_Teachers_25.26_school_year.pdf (accessed on 4 August 2026).
@@ -412,8 +410,6 @@ Encouraging the re-entry of former teachers is consistent with a view of teachin
 - Deutsches Schulportal (2023), "Mehrheit der Länder wirbt gezielt um Lehrkräfte im Pensionsalter" (Länderüberblick survey, 2 August 2023), Robert Bosch Stiftung, https://deutsches-schulportal.de/bildungswesen/laenderueberblick-umfrage-lehrermangel-pensionierte-lehrer/ (accessed on 5 August 2026).
 
 - Diário de Notícias (2024), "Governo queria 200 professores reformados nas escolas. Regressam 63", dn.pt, 3 December 2024, https://www.dn.pt/5687900830/governo-queria-200-professores-reformados-nas-escolas-regressam-63 (accessed on 4 August 2026).
-
-- DUO (2026), "Stille reserve oud-leraren in het onderwijs afgelopen 10 jaar afgenomen", press release, 28 May 2026, Dienst Uitvoering Onderwijs, https://duo.nl/organisatie/pers/stille-reserve-oud-leraren-in-het-onderwijs-afgelopen-10-jaar-afgenomen.jsp (accessed on 4 August 2026).
 
 - European Commission (2023), *Education and Training Monitor 2023: Comparative Report*, Publications Office of the European Union, Luxembourg, https://op.europa.eu/webpub/eac/education-and-training-monitor-2023/ (accessed on 4 August 2026).
 
@@ -471,8 +467,6 @@ Encouraging the re-entry of former teachers is consistent with a view of teachin
 
 - Moyer, A. (2022), "Has 'Who Comes Back' Changed? Teacher Reentry 2000-2019", *Educational Researcher*, Vol. 51/8, pp. 544-546, https://doi.org/10.3102/0013189X221122746.
 
-- NCES (2023), "Eight Percent of Public School Teachers Left Teaching in 2021, a Rate Unchanged Since Last Measured in 2012", press release, 13 December 2023, National Center for Education Statistics, https://ies.ed.gov/learn/press-release/eight-percent-public-school-teachers-left-teaching-2021-rate-unchanged-last-measured-2012; First Look report: *Teacher Attrition and Mobility: Results From the 2021-22 Teacher Follow-up Survey to the National Teacher and Principal Survey* (NCES 2024-039), https://nces.ed.gov/pubs2024/2024039M.pdf.
-
 - NCTL (2017), *Returners Engagement Programme Pilot: Programme and Application Guidance*, National College for Teaching and Leadership, January 2017, https://dera.ioe.ac.uk/28252/1/returners-engagement-programme-application-guidance-cohort-2.pdf (accessed on 4 August 2026).
 
 - New Mexico Educational Retirement Board (2023), *Discussion on Return to Work*, presentation to the Investments & Pensions Oversight Committee, 31 October 2023, https://www.nmlegis.gov/handouts/IPOC%20103123%20Item%204%20E.%20Educational%20Retirement%20Board--Return%20to%20Work.pdf (accessed on 4 August 2026).
@@ -493,8 +487,6 @@ Encouraging the re-entry of former teachers is consistent with a view of teachin
 
 - Nickow, A., P. Oreopoulos and V. Quan (2024), "The promise of tutoring for preK-12 learning: A systematic review and meta-analysis of the experimental evidence", *American Educational Research Journal*, Vol. 61/1, pp. 74-107, https://journals.sagepub.com/doi/10.3102/00028312231208687.
 
-- Nippon.com (2022), "Survey Reveals Teacher Shortage in Japan", 15 March 2022, https://www.nippon.com/en/japan-data/h01264/ (accessed on 5 August 2026).
-
 - Nippon.com (2026), "3,827 Teacher Positions Unfilled across Japan: 2025 Survey", https://www.nippon.com/en/news/yjj2026030500966/ (accessed on 5 August 2026).
 
 - NSW Department of Education (2024), *NSW Department of Education Annual Report 2023-24*, Sydney, https://education.nsw.gov.au/content/dam/main-education/en/home/about-us/strategies-and-reports/annual-reports/nsw-doe-annual-report-2023-24.pdf (accessed on 4 August 2026).
@@ -509,11 +501,7 @@ Encouraging the re-entry of former teachers is consistent with a view of teachin
 
 - OECD (2005), *Teachers Matter: Attracting, Developing and Retaining Effective Teachers*, Education and Training Policy, OECD Publishing, Paris, https://doi.org/10.1787/9789264018044-en (accessed on 5 August 2026).
 
-- OECD (2019), *TALIS 2018 Results (Volume I): Teachers and School Leaders as Lifelong Learners*, TALIS, OECD Publishing, Paris, https://doi.org/10.1787/1d0bc92a-en (accessed on 5 August 2026).
-
 - OECD (2020), *TALIS 2018 Results (Volume II): Teachers and School Leaders as Valued Professionals*, TALIS, OECD Publishing, Paris, https://doi.org/10.1787/19cf08df-en (report page: https://www.oecd.org/en/publications/talis-2018-results-volume-ii_19cf08df-en.html).
-
-- OECD (2023a), *PISA 2022 Results (Volume I): The State of Learning and Equity in Education*, PISA, OECD Publishing, Paris, https://doi.org/10.1787/53f23881-en (report page: https://www.oecd.org/en/publications/pisa-2022-results-volume-i_53f23881-en.html) (accessed on 5 August 2026).
 
 - OECD (2023b), *PISA 2022 Results (Volume II): Learning During – and From – Disruption*, PISA, OECD Publishing, Paris, https://doi.org/10.1787/a97db61c-en (accessed on 5 August 2026).
 
@@ -526,8 +514,6 @@ Encouraging the re-entry of former teachers is consistent with a view of teachin
 - Ontario Ministry of Education (2022), *Memorandum 2022:SB01 – Temporary Amendment to the Ontario Teachers' Pension Plan (OTPP) 95 Day Re-Employment Rule for the 2021-22 School Year – Reporting Requirements*, 24 January 2022, https://efis.fma.csc.gov.on.ca/faab/Memos/SB2022/SB01_EN.pdf (accessed on 4 August 2026).
 
 - Ontario Teachers' Pension Plan (2026), "Know your re-employment limit", https://otpp.com/en-ca/members/life-events/living-in-retirement/your-reemployment-limit/ (accessed on 4 August 2026).
-
-- OSSTF (n.d.), "Ontario Teachers' Pension Plan (OTPP)", Ontario Secondary School Teachers' Federation, https://www.osstf.on.ca/en-CA/services/pensions/ontario-teachers-pension-plan-otpp.aspx (accessed on 4 August 2026).
 
 - OTF (2023), "50-Day re-employment rule increased to 95 days for some OTPP retirees until June 30, 2023", Ontario Teachers' Federation, https://www.otffeo.on.ca/en/news/50-day-re-employment-rule-increased-to-95-days-for-some-otpp-retirees-until-june-30-2023/ (accessed on 4 August 2026).
 
