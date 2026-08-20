@@ -216,3 +216,106 @@ return; the subsections themselves run in decision order (1 to 4).
 Cases are assigned to the family whose question they answer. A case touching two families
 (a statute that both permits and prices) is discussed in full where its principal effect
 lies and cross-referenced once from the other.
+
+## 11. HOW IDEAS ARE DEVELOPED (the lead author's method; overrides everything on paragraph
+## construction above where they conflict)
+
+A paragraph is a LADDER OF IDEAS, not a delivery vehicle for data. Each rung adds ONE
+thought, in light strokes. Evidence closes an idea; it never opens one.
+
+THE SEQUENCE the lead author demonstrated:
+1. A general observation, plainly stated.
+2. The complication: the aggregate hides differences.
+3. The construct, OFFERED as an analytical move ("three main routes can be distinguished"),
+   never asserted as a fact of nature. Never invented vocabulary ("three populations" was
+   rejected); use the field's own terms (attrition, mobility, movers and leavers, re-entrants,
+   reserve pool, labour-force withdrawal).
+4. The variation: its weight differs across systems.
+5. The dominant regularity WITH ITS MECHANISM ("in most systems, because the profession is
+   ageing, half or more of leavers are retirements").
+6. Examples that explain the deviation, each carrying a "because".
+
+HARD RULES:
+- IDEA FIRST, ALWAYS. No sentence opens on a figure or a country. If a country or a number
+  appears, an idea it supports must already be on the page.
+- Data and countries enter EXPLICITLY AS ILLUSTRATION: "the case of Australia illustrates
+  this", "Portugal is an example of the above", "this is visible in X, where...".
+- One figure per idea at most, at the end of the idea, with its denominator. Never a string
+  of figures. Never a country list without a reason for each entry.
+- A country earns its place only when it explains something ("where X, the rate is low
+  because..."). Decorative countries are cut.
+- Vague quantifiers are banned ("substantial numbers", "many", "some"): they are neither
+  ideas nor data.
+- Hedging is concentrated in one specific sentence where the evidence is genuinely weak,
+  never spread across the paragraph.
+
+## 12. BREATH AND RHYTHM (lead author, after rejecting a staccato draft)
+The ladder of ideas must be carried by connected prose, never by a run of short sentences.
+- FORBIDDEN: the cadence "idea. pause. idea. pause. idea." Three or more consecutive
+  sentences under roughly 20 words is a defect, and a full stop used for emphasis is an AI
+  tell (see AI_TELLS.md, "dramatic short sentences").
+- Ideas are joined by subordination and connective tissue (since, where, so that, which,
+  because, while), so that a paragraph of six ideas may run in three sentences.
+- Sentence length must vary deliberately across a paragraph, with the dominant sentence
+  between 25 and 45 words and the occasional short sentence reserved for a genuine pivot,
+  about one per page.
+- Colons are not used to pause the narrative; rhetorical colons remain banned. Em dashes
+  remain banned in body prose. "X rather than Y" as rhetoric is banned (negative
+  parallelism, the most-flagged AI tell of all).
+- The test: read the paragraph aloud. If it sounds like a list being ticked off, rewrite it
+  as connected prose without losing a single idea.
+
+## 13. CONSTRUCTS ARE NAMED ONCE, SOFTLY (lead author)
+A classification is introduced once, in passing, with softening ("can be broadly grouped
+into..."), and is NEVER re-invoked as a label afterwards. Writing "the three routes" or
+"these three populations" a second time turns an analytical convenience into a doctrine and
+reads as a writer clinging to a scaffold.
+- Prefer the enumeration to carry the count implicitly: "reasons that can be broadly grouped
+  into retirement, a move into another occupation, and a spell outside the labour market"
+  says three without saying "three".
+- After the first mention, refer to the substance ("their relative weight", "where
+  retirement dominates"), never to the taxonomy.
+- The same rule governs the four families of Section 3: named once at the point of
+  introduction, then used by their own names, never counted again ("the four families").
+
+## 14. NO PATTERN, NO UNIFORM PARAGRAPH LENGTH (lead author)
+Homogeneous paragraph length is itself an AI tell and is forbidden. Within any subsection the
+paragraphs must differ substantially in size, because their size follows the size of the
+idea, and not a template: a paragraph that establishes a mechanism may run to two hundred
+words, a qualification may take fifty, a case that only confirms what precedes may take one
+sentence inside another paragraph.
+- Check mechanically: in any run of five consecutive paragraphs, the longest must be at
+  least twice the shortest.
+- Vary the opening move too. Some paragraphs open on the idea, some continue the previous
+  argument, some open on the qualification, some on the case. No subsection may open two
+  consecutive paragraphs the same way.
+- The same prohibition applies to case blocks in Section 3: they must not all be the same
+  length, and the four questions they answer need not occupy equal space in each.
+
+## 15. THE DRAFTING MANUAL (POLICY_WRITING_MANUAL.md) IS BINDING
+80 rules from OECD Style Guide (3rd ed.), Williams and Bizup, Gopen and Swan, the European
+Commission, the IPCC uncertainty note, the UK Analysis Function, the Economist, ODI, HKS and
+Bardach. Writers read it before drafting. The mechanically checkable core:
+- Old information in the topic position, new information in the stress position; the
+  emphatic material lands at the end of the sentence and of the paragraph (Gopen and Swan).
+- Within a paragraph: claim, then evidence, then implication. Reconciles with the lead
+  author's rule that data closes an idea: the figure ends its idea, and the paragraph ends
+  on what the idea means, never on a citation or a caveat.
+- Main characters as subjects, their actions as verbs; nominalisations under 5% of words
+  (Williams; Sword). Turn -ion and -ment nouns back into verbs.
+- Average 15-20 words a sentence with deliberate variation (OECD 3rd ed.).
+- At most about eight digits in a paragraph, twelve including years (Cohen); one comparison
+  per sentence; never a change without an anchor.
+- Every example carries a because and names the mechanism; no lists of countries (Bardach;
+  OECD).
+- Delete intensifiers before hedges; the absence of a hedge is the strongest intensifier;
+  never open with obviously or it is clear that (Williams).
+- Match the verb to the design: affect/cause only for causal designs, association for the
+  rest (UK Analysis Function).
+- Banned: throat-clearing openings, signposting excess and metadiscourse, elegant variation,
+  false parallelism including rhetorical "X rather than Y", adjective inflation, buzzwords
+  (deliver, drive, foster, key, robust, leverage, tackle, transform, facilitate, impact as
+  verb), acronym spatter, Latin tags.
+- Headings are informative claims, not topic labels (EC).
+- Executive summary 850-1 000 words, self-contained, no figures, tables, notes or citations
+  (OECD 3rd ed.).
