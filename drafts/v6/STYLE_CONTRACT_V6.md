@@ -319,3 +319,34 @@ Bardach. Writers read it before drafting. The mechanically checkable core:
 - Headings are informative claims, not topic labels (EC).
 - Executive summary 850-1 000 words, self-contained, no figures, tables, notes or citations
   (OECD 3rd ed.).
+
+## 16. THE REGISTER MODEL (lead author's own sample; governs the whole paper and the abstract)
+The target voice, quoted verbatim by the lead author as the model to follow:
+
+    "A major priority for education policy is to recruit and retain sufficient teachers to
+    meet the current and future requirements of the education system. One important source
+    of teachers is those who have left teaching in the public sector."
+
+What this sample settles, and what every passage must imitate:
+- FRAME FROM THE POLICY PRIORITY FIRST, then narrow to the paper's subject as one component
+  of it. The phenomenon is introduced through what policy is trying to achieve.
+- PLAIN VOCABULARY. "Sufficient teachers", "one important source". No elevated diction, no
+  imagery, no technical display.
+- SIMPLE SYNTAX. Subject, verb, complement. Two clauses at most. No participial tails, no
+  appositive stacking, no subordination for its own sake.
+- NO FIGURES IN THE FRAMING. Data arrives later, once the subject is on the table.
+- SOBER CONFIDENCE. Accepted facts are stated as accepted, with no hedging and no
+  intensifiers. Nothing is announced as important; importance is shown by placement.
+- NO SELF-REFERENCE, no signposting, no rhetorical questions.
+Every section opening, and the abstract, is written to this pattern before anything else is
+added. Where a passage cannot be said in this register, the passage is wrong, not the register.
+
+## 16bis. THE FRAMING SENTENCE (lead author, expanded version; use for the paper's opening
+## and the abstract)
+    "A major priority for the educational policy agenda of most countries is to recruit and
+    retain enough teachers to meet the current and future requirements of the education
+    system, while maintaining the quality of the teaching and keeping the profession
+    attractive."
+Three elements must survive in the framing: sufficiency of supply now and in future, the
+quality of teaching, and the attractiveness of the profession. Former teachers enter as one
+source among those that serve this priority.
