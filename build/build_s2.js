@@ -2,7 +2,7 @@ const fs=require('fs'),path=require('path');
 const {Document,Packer,Paragraph,TextRun,HeadingLevel,AlignmentType,ImageRun,Header,Footer,PageNumber}=require('docx');
 const D='/tmp/claude-0/-home-user-Former-Teachers/a24edd69-63fe-5960-a606-96920452dc5a/scratchpad/drafts/v9';
 const BLUE='04629A',FONT='Garamond';
-const s2=fs.readFileSync(path.join(D,'s2.md'),'utf8').split('\n');
+const s2=fs.readFileSync(path.join(D,'s2_v2.md'),'utf8').split('\n');
 const sk=fs.readFileSync(path.join(D,'SKELETON.md'),'utf8').split('\n');
 function inline(t,base={}){const out=[];for(const p of t.split(/(\*\*[^*]+\*\*|\*[^*]+\*)/g).filter(Boolean)){
  if(/^\*\*[^*]+\*\*$/.test(p))out.push(new TextRun({text:p.slice(2,-2),bold:true,...base}));

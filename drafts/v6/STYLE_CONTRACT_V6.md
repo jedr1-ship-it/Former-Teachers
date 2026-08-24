@@ -350,3 +350,37 @@ added. Where a passage cannot be said in this register, the passage is wrong, no
 Three elements must survive in the framing: sufficiency of supply now and in future, the
 quality of teaching, and the attractiveness of the profession. Former teachers enter as one
 source among those that serve this priority.
+
+## 17. HOW THE LITERATURE REVIEW IS WRITTEN (lead author; supersedes any study-by-study plan)
+The review is organised by IDEAS, never by studies. Ideas are extracted from the citations
+and then presented as ideas; the citations follow to support and to make them concrete.
+Marching through reviews in order (Ingersoll, then Guarino, then Borman) is forbidden.
+
+The shape of one idea, from the lead author's own example:
+1. Name the reason and its standing in the field ("one of the most frequently cited reasons
+   for leaving is the arrival of a child").
+2. Anchor it in the strongest evidence, quantified and attributed ("In the United States,
+   Stinebrickner (2002) followed a cohort of certified women and found...").
+3. Corroborate briefly from another system ("A study in the United Kingdom found the same
+   positive association").
+4. TURN: the institution changes the weight of the motive ("What makes this interesting for
+   policy is that the law matters: where parental leave is long and the post is held open,
+   childbirth interrupts a career without ending it").
+5. The contrasting case, with its because, and its source.
+Not every idea needs all five moves, and they must not be applied as a template in the same
+order every time; but every idea must reach at least the turn, because the institutional
+contingency is what a policy reader is reading for.
+Studies appear inside ideas, never as the subject of a paragraph. A paragraph whose topic is
+a study, a review or an author is wrong and must be recast around what it establishes.
+
+## 17bis. THE IDEA-STORY IS NOT A TEMPLATE (lead author's refinement of §17)
+How an idea is distributed across paragraphs must vary through the section:
+- sometimes one paragraph carries one idea whole, turn and contrast included;
+- sometimes an idea runs across three paragraphs, one stating it, one showing it in two
+  systems, a third contrasting them and drawing what the contrast implies;
+- sometimes the institutional turn sits inside the same paragraph, in a subordinate clause,
+  and the following paragraph moves to the next idea;
+- sometimes two related ideas share a paragraph because neither needs a full one.
+The five moves of §17 are a repertoire, not a sequence to be executed. Applying them in the
+same order and the same span every time produces exactly the robotic rhythm the lead author
+has rejected twice. Mix the shapes deliberately, and let the size of the idea decide.
