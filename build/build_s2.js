@@ -9,7 +9,18 @@ function inline(t,base={}){const out=[];for(const p of t.split(/(\*\*[^*]+\*\*|\
  else if(/^\*[^*]+\*$/.test(p))out.push(new TextRun({text:p.slice(1,-1),italics:true,...base}));
  else out.push(new TextRun({text:p,...base}));}return out;}
 const body=(t,o={})=>new Paragraph({children:inline(t,o.run||{}),alignment:o.align||AlignmentType.JUSTIFIED,spacing:{after:o.after??160,line:264}});
-function render(lines,{mono=false}={}){const out=[];let buf=[];
+const {Table,TableRow,TableCell,WidthType,BorderStyle}=require('docx');
+const splitRow=t=>t.replace(/^\||\|$/g,'').split('|').map(x=>x.trim());
+function mkTable(rows){const hdr=rows[0],body=rows.slice(2);
+ const cell=(t,h)=>new TableCell({children:[new Paragraph({children:inline(t,{size:17,bold:!!h}),spacing:{after:40}})],
+   shading:h?{fill:'E8EEF4'}:undefined,margins:{top:60,bottom:60,left:80,right:80}});
+ return new Table({width:{size:100,type:WidthType.PERCENTAGE},
+   borders:{top:{style:BorderStyle.SINGLE,size:6,color:'888888'},bottom:{style:BorderStyle.SINGLE,size:6,color:'888888'},
+            left:{style:BorderStyle.NONE},right:{style:BorderStyle.NONE},
+            insideHorizontal:{style:BorderStyle.SINGLE,size:2,color:'CCCCCC'},insideVertical:{style:BorderStyle.NONE}},
+   rows:[new TableRow({children:hdr.map(h=>cell(h,true))}),
+         ...body.map(r=>new TableRow({children:r.map(c=>cell(c,false))}))]});}
+function render(lines,{mono=false}={}){const out=[];let buf=[];let tbl=null;
  const flush=()=>{if(buf.length){out.push(body(buf.join(' ')));buf=[];}};
  for(const ln of lines){const t=ln.trim();
   if(t.startsWith('![')){flush();
@@ -20,8 +31,11 @@ function render(lines,{mono=false}={}){const out=[];let buf=[];
   if(/^## /.test(t)){flush();out.push(new Paragraph({heading:HeadingLevel.HEADING_2,spacing:{before:260,after:140},children:[new TextRun({text:t.slice(3),bold:true,color:BLUE,size:26})]}));continue;}
   if(/^(Note|Source):/.test(t)){flush();out.push(new Paragraph({children:inline(t,{size:17}),spacing:{after:60}}));continue;}
   if(/^- /.test(t)){flush();out.push(new Paragraph({children:inline(t.slice(2),mono?{size:19}:{}),spacing:{after:70},indent:{left:280}}));continue;}
+  if(/^\|/.test(t)){flush(); (tbl=tbl||[]).push(splitRow(t)); continue;}
+  if(tbl&&!/^\|/.test(t)){out.push(mkTable(tbl));tbl=null;}
   if(t===''){flush();continue;}
   buf.push(t);}
+ if(tbl)out.push(mkTable(tbl));
  flush();return out;}
 const doc=new Document({styles:{default:{document:{run:{font:FONT,size:23}}}},
  sections:[{properties:{page:{margin:{top:1417,bottom:1417,left:1417,right:1417}}},
