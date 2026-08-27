@@ -72,7 +72,14 @@ The birth of a child is one of the main reasons female teachers leave. In Englan
 
 Paid maternity leave and the reservation of the post vary considerably across countries. A Spanish teacher on a permanent public contract has nineteen weeks of paid leave and may take up to three years of childcare leave per child, the first two with her post reserved (Government of Spain, 2015; Government of Spain, 2025); a teacher in the United States is guaranteed twelve unpaid weeks under federal law, and fewer than one in five large districts pay parental leave (United States, 2013; National Council on Teacher Quality, 2026).^11 In the Spanish design, childbirth interrupts a teaching career without ending it, and the returner population is by construction on leave; in the American design, the same event forces an exit that the system then has to reverse through re-employment.
 
-The proportion between resignations and retirements, finally, varies widely across countries. In the 19 OECD systems with comparable data, resignations account for 51% of departures; they exceed 80% in Denmark, England and Estonia, and retirements predominate in France, Greece, Ireland and Israel (OECD, 2025a). The thesis that retirement is a minor component of attrition comes from the Anglophone systems and does not generalise. For a paper about return, the composition matters as much as the level, because a system losing mid-career resigners and a system losing retirees hold reserves of former teachers with different ages, different licences and different reasons to come back.
+The proportion between resignations and retirements, finally, varies widely across countries (Figure 2). In the 19 OECD systems with comparable data, resignations account for 51% of departures; they exceed 80% in Denmark, England and Estonia, and retirements predominate in France, Greece, Ireland and Israel (OECD, 2025a). The thesis that retirement is a minor component of attrition comes from the Anglophone systems and does not generalise. For a paper about return, the composition matters as much as the level, because a system losing mid-career resigners and a system losing retirees hold reserves of former teachers with different ages, different licences and different reasons to come back.
+
+**Figure 2. Who the leavers are differs as much as how many leave**
+
+![Teacher attrition and its composition between resignation and retirement](fig_attrition.png)
+
+Note: Each bar is the share of fully qualified teachers who left the profession in 2022/23, decomposed into those who resigned and those who retired. Data cover pre-primary to upper secondary education; systems that report the attrition rate without its decomposition are absent from the chart.
+Source: OECD (2025), Education at a Glance 2025, Table D8.4.
 
 ## 2.4 Stated and revealed preferences
 
