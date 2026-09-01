@@ -22,7 +22,7 @@ function inline(t,base={}){const out=[];
   else if(/^\*[^*]+\*$/.test(p))out.push(...runs(p.slice(1,-1),{italics:true,...base}));
   else out.push(...runs(p,base));}
  return out;}
-const body=(t,o={})=>new Paragraph({children:inline(t,o.run||{}),alignment:o.align||AlignmentType.JUSTIFIED,spacing:{after:o.after??160,line:264},indent:o.indent});
+const body=(t,o={})=>new Paragraph({children:inline(t,o.run||{}),alignment:o.align||AlignmentType.JUSTIFIED,spacing:{after:o.after??130,line:242},indent:o.indent});
 const splitRow=t=>t.replace(/^\||\|$/g,'').split('|').map(x=>x.trim());
 function mkTable(rows){const hdr=rows[0],bodyRows=rows.slice(2);
  const cell=(t,h)=>new TableCell({children:[new Paragraph({children:inline(t,{size:17,bold:!!h}),spacing:{after:40}})],
@@ -34,7 +34,7 @@ function mkTable(rows){const hdr=rows[0],bodyRows=rows.slice(2);
    rows:[new TableRow({children:hdr.map(h=>cell(h,true))}),
          ...bodyRows.map(r=>new TableRow({children:r.map(c=>cell(c,false))}))]});}
 const h1=(t,pb)=>new Paragraph({heading:HeadingLevel.HEADING_1,pageBreakBefore:!!pb,spacing:{before:pb?0:340,after:220},children:[new TextRun({text:t,bold:true,color:HEAD,size:30,font:FONT})]});
-const h2=t=>new Paragraph({heading:HeadingLevel.HEADING_2,spacing:{before:260,after:140},children:[new TextRun({text:t,bold:true,color:HEAD,size:25,font:FONT})]});
+const h2=t=>new Paragraph({heading:HeadingLevel.HEADING_2,spacing:{before:200,after:120},children:[new TextRun({text:t,bold:true,color:HEAD,size:25,font:FONT})]});
 const placeholder=t=>new Paragraph({children:[new TextRun({text:t,italics:true,color:'8C8C8C'})],spacing:{after:200}});
 
 function render(lines,imgDir){const out=[];let buf=[];let tbl=null;
@@ -42,8 +42,8 @@ function render(lines,imgDir){const out=[];let buf=[];let tbl=null;
  for(const ln of lines){const t=ln.trim();
   if(t.startsWith('![')){flush();
     const f=path.basename(t.match(/\((.+)\)/)[1]);
-    out.push(new Paragraph({alignment:AlignmentType.CENTER,spacing:{before:120,after:120},
-      children:[new ImageRun({type:'png',data:fs.readFileSync(path.join(imgDir,f)),transformation:{width:600,height:380}})]}));continue;}
+    out.push(new Paragraph({alignment:AlignmentType.CENTER,spacing:{before:80,after:80},
+      children:[new ImageRun({type:'png',data:fs.readFileSync(path.join(imgDir,f)),transformation:{width:430,height:270}})]}));continue;}
   if(/^# /.test(t)){flush();out.push(h1(t.slice(2),true));continue;}
   if(/^## /.test(t)){flush();out.push(h2(t.slice(3)));continue;}
   if(/^(Note|Source):/.test(t)){flush();out.push(body(t,{run:{size:17},after:60}));continue;}
