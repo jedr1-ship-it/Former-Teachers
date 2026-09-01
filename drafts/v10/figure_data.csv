@@ -1,0 +1,939 @@
+indicator,country,value,unit,year,source_short
+D8.4_attrition_rate_primary,Australia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Australia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Australia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Australia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Australia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Australia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Australia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Australia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Australia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Australia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Australia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Australia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Australia,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Australia,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Australia,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,Austria,5.8,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Austria,63,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Austria,37,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Austria,52,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Austria,6.5,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Austria,45,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Austria,55,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Austria,63,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Austria,6.2,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Austria,51,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Austria,49,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Austria,58,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Austria,3.2,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Austria,63,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Austria,37,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,Costa Rica,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Costa Rica,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Costa Rica,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Costa Rica,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Costa Rica,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Costa Rica,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Costa Rica,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Costa Rica,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Costa Rica,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Costa Rica,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Costa Rica,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Costa Rica,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Costa Rica,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Costa Rica,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Costa Rica,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,Denmark,12.0d,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Denmark,85d,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Denmark,15d,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Denmark,18d,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Denmark,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Denmark,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Denmark,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Denmark,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Denmark,11.8,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Denmark,85,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Denmark,15,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Denmark,16,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Denmark,13.7,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Denmark,82,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Denmark,18,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,Estonia,x(5),percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Estonia,x(6),percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Estonia,x(7),percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Estonia,x(8),percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Estonia,11d,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Estonia,80d,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Estonia,20d,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Estonia,33d,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Estonia,11.6,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Estonia,81,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Estonia,19,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Estonia,30,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Estonia,6.8,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Estonia,80,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Estonia,20,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,France,2.7d,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,France,17d,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,France,83d,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,France,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,France,2.6,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,France,13,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,France,87,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,France,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,France,2.7,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,France,15,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,France,85,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,France,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,France,2.3,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,France,6,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,France,94,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,Greece,2.1,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Greece,5,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Greece,95,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Greece,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Greece,3.7,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Greece,4,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Greece,96,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Greece,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Greece,2.7,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Greece,5,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Greece,95,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Greece,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Greece,2.3,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Greece,12,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Greece,88,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,Hungary,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Hungary,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Hungary,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Hungary,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Hungary,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Hungary,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Hungary,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Hungary,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Hungary,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Hungary,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Hungary,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Hungary,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Hungary,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Hungary,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Hungary,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,Iceland,11.5,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Iceland,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Iceland,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Iceland,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Iceland,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Iceland,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Iceland,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Iceland,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Iceland,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Iceland,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Iceland,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Iceland,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Iceland,9.7,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Iceland,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Iceland,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,Ireland,2.5,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Ireland,25,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Ireland,75,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Ireland,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Ireland,5.0,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Ireland,53,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Ireland,47,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Ireland,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Ireland,2.3,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Ireland,39,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Ireland,61,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Ireland,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Ireland,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Ireland,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Ireland,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,Israel,2.0,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Israel,29,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Israel,71,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Israel,66,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Israel,2.0,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Israel,31,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Israel,69,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Israel,68,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Israel,2.1,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Israel,28,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Israel,72,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Israel,68,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Israel,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Israel,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Israel,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,Japan,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Japan,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Japan,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Japan,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Japan,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Japan,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Japan,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Japan,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Japan,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Japan,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Japan,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Japan,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Japan,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Japan,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Japan,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,Korea,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Korea,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Korea,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Korea,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Korea,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Korea,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Korea,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Korea,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Korea,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Korea,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Korea,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Korea,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Korea,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Korea,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Korea,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,Latvia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Latvia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Latvia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Latvia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Latvia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Latvia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Latvia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Latvia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Latvia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Latvia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Latvia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Latvia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Latvia,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Latvia,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Latvia,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,Lithuania,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Lithuania,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Lithuania,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Lithuania,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Lithuania,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Lithuania,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Lithuania,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Lithuania,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Lithuania,12.5,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Lithuania,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Lithuania,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Lithuania,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Lithuania,12.4,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Lithuania,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Lithuania,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,Netherlands,8.1d,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Netherlands,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Netherlands,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Netherlands,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Netherlands,9.5,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Netherlands,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Netherlands,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Netherlands,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Netherlands,8.6,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Netherlands,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Netherlands,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Netherlands,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Netherlands,,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Netherlands,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Netherlands,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,New Zealand,8.5,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,New Zealand,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,New Zealand,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,New Zealand,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,New Zealand,8.6,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,New Zealand,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,New Zealand,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,New Zealand,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,New Zealand,8.5,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,New Zealand,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,New Zealand,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,New Zealand,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,New Zealand,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,New Zealand,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,New Zealand,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,Norway,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Norway,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Norway,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Norway,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Norway,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Norway,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Norway,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Norway,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Norway,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Norway,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Norway,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Norway,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Norway,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Norway,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Norway,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,Poland,4.5,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Poland,57,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Poland,43,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Poland,24,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Poland,4.3,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Poland,62,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Poland,38,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Poland,32,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Poland,4.4,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Poland,61,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Poland,39,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Poland,32,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Poland,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Poland,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Poland,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,Portugal,3.7,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Portugal,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Portugal,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Portugal,28,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Portugal,4.0,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Portugal,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Portugal,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Portugal,49,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Portugal,3.9,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Portugal,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Portugal,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Portugal,39,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Portugal,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Portugal,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Portugal,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,Slovak Republic,5.3,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Slovak Republic,67,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Slovak Republic,33,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Slovak Republic,38,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Slovak Republic,6.5,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Slovak Republic,57,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Slovak Republic,43,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Slovak Republic,38,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Slovak Republic,6.4,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Slovak Republic,58,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Slovak Republic,42,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Slovak Republic,40,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Slovak Republic,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Slovak Republic,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Slovak Republic,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,Slovenia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Slovenia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Slovenia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Slovenia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Slovenia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Slovenia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Slovenia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Slovenia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Slovenia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Slovenia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Slovenia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Slovenia,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Slovenia,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Slovenia,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Slovenia,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,Sweden,5.6,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Sweden,78,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Sweden,22,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Sweden,23,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Sweden,6.1,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Sweden,78,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Sweden,22,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Sweden,20,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Sweden,5.9,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Sweden,77,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Sweden,23,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Sweden,23,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Sweden,5.8,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Sweden,91,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Sweden,9,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,Switzerland,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Switzerland,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Switzerland,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Switzerland,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Switzerland,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Switzerland,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Switzerland,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Switzerland,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Switzerland,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Switzerland,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Switzerland,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Switzerland,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Switzerland,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Switzerland,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Switzerland,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,Türkiye,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Türkiye,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Türkiye,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Türkiye,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Türkiye,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Türkiye,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Türkiye,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Türkiye,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Türkiye,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Türkiye,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Türkiye,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Türkiye,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Türkiye,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Türkiye,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Türkiye,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,United States,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,United States,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,United States,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,United States,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,United States,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,United States,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,United States,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,United States,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,United States,7.9,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,United States,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,United States,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,United States,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,United States,7.7,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,United States,46,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,United States,54,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,Flemish Comm. (Belgium),8.4,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Flemish Comm. (Belgium),76,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Flemish Comm. (Belgium),24,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Flemish Comm. (Belgium),m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Flemish Comm. (Belgium),8.8,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Flemish Comm. (Belgium),76,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Flemish Comm. (Belgium),24,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Flemish Comm. (Belgium),m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Flemish Comm. (Belgium),8.3,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Flemish Comm. (Belgium),76,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Flemish Comm. (Belgium),24,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Flemish Comm. (Belgium),m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Flemish Comm. (Belgium),m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Flemish Comm. (Belgium),m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Flemish Comm. (Belgium),m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,French Comm. (Belgium),4.8,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,French Comm. (Belgium),33,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,French Comm. (Belgium),67,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,French Comm. (Belgium),m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,French Comm. (Belgium),4.8,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,French Comm. (Belgium),31,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,French Comm. (Belgium),69,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,French Comm. (Belgium),m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,French Comm. (Belgium),4.8,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,French Comm. (Belgium),33,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,French Comm. (Belgium),67,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,French Comm. (Belgium),m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,French Comm. (Belgium),4.9,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,French Comm. (Belgium),29,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,French Comm. (Belgium),71,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,England (UK),9.5d,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,England (UK),m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,England (UK),m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,England (UK),m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,England (UK),9.5,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,England (UK),m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,England (UK),m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,England (UK),m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,England (UK),9.5,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,England (UK),91,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,England (UK),9,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,England (UK),m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,England (UK),10.4,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,England (UK),76,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,England (UK),24,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,OECD average,5.8,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,OECD average,49,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,OECD average,51,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,OECD average,36,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,OECD average,5.9,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,OECD average,48,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,OECD average,52,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,OECD average,43,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,OECD average,6.5,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,OECD average,51,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,OECD average,49,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,OECD average,38,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,OECD average,6.9,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,OECD average,51,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,OECD average,49,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,Argentina,5.4,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Argentina,49,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Argentina,51,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Argentina,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Argentina,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Argentina,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Argentina,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Argentina,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Argentina,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Argentina,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Argentina,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Argentina,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Argentina,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Argentina,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Argentina,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,Brazil,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Brazil,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Brazil,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Brazil,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Brazil,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Brazil,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Brazil,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Brazil,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Brazil,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Brazil,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Brazil,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Brazil,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Brazil,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Brazil,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Brazil,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,Bulgaria,7.7,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Bulgaria,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Bulgaria,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Bulgaria,4,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Bulgaria,8.4,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Bulgaria,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Bulgaria,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Bulgaria,29,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Bulgaria,8.3,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Bulgaria,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Bulgaria,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Bulgaria,23,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Bulgaria,7.4,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Bulgaria,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Bulgaria,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,Romania,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,Romania,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,Romania,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,Romania,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,Romania,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,Romania,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,Romania,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,Romania,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,Romania,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,Romania,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,Romania,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,Romania,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,Romania,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,Romania,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,Romania,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,EU25 average,5.7,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,EU25 average,51,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,EU25 average,49,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,EU25 average,27,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,EU25 average,6.2,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,EU25 average,50,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,EU25 average,50,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,EU25 average,38,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,EU25 average,6.7,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,EU25 average,53,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,EU25 average,47,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,EU25 average,32,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,EU25 average,6.5,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,EU25 average,52,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,EU25 average,48,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_primary,G20 average,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_primary,G20 average,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_primary,G20 average,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_primary,G20 average,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_secondary,G20 average,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_secondary,G20 average,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_secondary,G20 average,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_secondary,G20 average,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary,G20 average,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary,G20 average,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary,G20 average,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_earlycareer_leavers_share_of_resigners_prePrimary_to_upperSecondary,G20 average,m,percent,2022/23,OECD EAG 2025 Table D8.4
+D8.4_attrition_rate_prePrimary_to_upperSecondary_2014_15,G20 average,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_resigned_share_prePrimary_to_upperSecondary_2014_15,G20 average,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D8.4_leavers_retired_share_prePrimary_to_upperSecondary_2014_15,G20 average,m,percent,2014/15,OECD EAG 2025 Table D8.4
+D3.2_earnings_reference_year,Australia,2023,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Australia,0.97,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Australia,0.97,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Australia,1.03,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Australia,0.97,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Australia,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Australia,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Austria,2023,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Austria,0.75,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Austria,0.89,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Austria,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Austria,0.82,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Austria,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Austria,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Canada,m,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Canada,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Canada,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Canada,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Canada,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Canada,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Canada,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Chile,2023,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Chile,0.75,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Chile,0.79,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Chile,0.73,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Chile,0.76,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Chile,0.64,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Chile,0.68,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Colombia,m,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Colombia,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Colombia,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Colombia,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Colombia,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Colombia,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Colombia,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Costa Rica,2023,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Costa Rica,1.31,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Costa Rica,1.74,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Costa Rica,1.28,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Costa Rica,1.74,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Costa Rica,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Costa Rica,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Czechia,2023,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Czechia,0.72,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Czechia,0.76,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Czechia,0.57,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Czechia,0.72,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Czechia,0.71,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Czechia,0.73,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Denmark,2023,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Denmark,0.82,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Denmark,0.97,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Denmark,0.68,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Denmark,0.83,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Denmark,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Denmark,0.84,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Estonia,2023,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Estonia,0.87,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Estonia,0.87,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Estonia,0.67,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Estonia,0.87,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Estonia,0.87,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Estonia,0.82,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Finland,2022,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Finland,0.81,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Finland,0.99,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Finland,0.64,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Finland,0.88,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Finland,0.69,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Finland,0.84,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,France,2022,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,France,0.74,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,France,0.90,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,France,0.75,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,France,0.82,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,France,0.74,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,France,0.87,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Germany,2023,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Germany,0.88,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Germany,1.01,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Germany,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Germany,0.97,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Germany,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Germany,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Greece,2018,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Greece,0.69,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Greece,0.72,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Greece,0.69,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Greece,0.72,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Greece,0.68,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Greece,0.69,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Hungary,2023,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Hungary,0.66,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Hungary,0.68,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Hungary,0.62,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Hungary,0.66,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Hungary,0.70,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Hungary,0.58,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Iceland,m,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Iceland,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Iceland,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Iceland,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Iceland,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Iceland,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Iceland,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Ireland,m,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Ireland,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Ireland,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Ireland,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Ireland,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Ireland,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Ireland,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Israel,2022,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Israel,0.86,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Israel,0.88,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Israel,0.87,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Israel,0.91,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Israel,0.79,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Israel,0.81,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Italy,2022,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Italy,0.67,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Italy,0.76,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Italy,0.67,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Italy,0.71,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Italy,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Italy,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Japan,m,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Japan,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Japan,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Japan,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Japan,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Japan,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Japan,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Korea,m,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Korea,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Korea,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Korea,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Korea,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Korea,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Korea,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Latvia,2023,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Latvia,0.77,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Latvia,0.78,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Latvia,0.64,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Latvia,0.77,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Latvia,0.74,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Latvia,0.73,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Lithuania,2022,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Lithuania,0.89,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Lithuania,0.89,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Lithuania,0.89,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Lithuania,0.89,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Lithuania,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Lithuania,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Luxembourg,m,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Luxembourg,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Luxembourg,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Luxembourg,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Luxembourg,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Luxembourg,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Luxembourg,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Mexico,m,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Mexico,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Mexico,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Mexico,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Mexico,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Mexico,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Mexico,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Netherlands,2023,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Netherlands,0.80,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Netherlands,0.87,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Netherlands,0.80,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Netherlands,0.87,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Netherlands,0.86,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Netherlands,0.89,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,New Zealand,2023,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,New Zealand,0.84,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,New Zealand,0.89,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,New Zealand,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,New Zealand,0.84,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,New Zealand,0.85,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,New Zealand,0.88,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Norway,2023,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Norway,0.73,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Norway,0.80,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Norway,0.66,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Norway,0.73,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Norway,0.77,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Norway,0.78,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Poland,2022,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Poland,0.85,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Poland,0.93,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Poland,0.73,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Poland,0.88,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Poland,0.83,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Poland,0.90,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Portugal,2023,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Portugal,1.28,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Portugal,1.36,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Portugal,1.37,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Portugal,1.27,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Portugal,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Portugal,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Slovak Republic,2023,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Slovak Republic,0.74,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Slovak Republic,0.79,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Slovak Republic,0.58,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Slovak Republic,0.74,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Slovak Republic,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Slovak Republic,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Slovenia,2022,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Slovenia,0.83,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Slovenia,0.87,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Slovenia,0.67,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Slovenia,0.84,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Slovenia,0.78,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Slovenia,0.78,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Spain,m,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Spain,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Spain,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Spain,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Spain,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Spain,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Spain,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Sweden,2023,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Sweden,0.73,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Sweden,0.77,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Sweden,0.64,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Sweden,0.76,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Sweden,0.73,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Sweden,0.70,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Switzerland,m,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Switzerland,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Switzerland,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Switzerland,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Switzerland,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Switzerland,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Switzerland,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Türkiye,m,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Türkiye,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Türkiye,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Türkiye,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Türkiye,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Türkiye,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Türkiye,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,United States,2023,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,United States,0.63,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,United States,0.67,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,United States,0.61,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,United States,0.65,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,United States,0.54,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,United States,0.57,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Flemish Comm. (Belgium),2022,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Flemish Comm. (Belgium),0.82,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Flemish Comm. (Belgium),0.99,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Flemish Comm. (Belgium),0.84,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Flemish Comm. (Belgium),0.82,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Flemish Comm. (Belgium),0.92,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Flemish Comm. (Belgium),0.94,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,French Comm. (Belgium),2022,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,French Comm. (Belgium),0.78,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,French Comm. (Belgium),0.96,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,French Comm. (Belgium),0.80,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,French Comm. (Belgium),0.76,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,French Comm. (Belgium),0.86,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,French Comm. (Belgium),0.88,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,England (UK),2023,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,England (UK),0.82,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,England (UK),0.98,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,England (UK),0.82,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,England (UK),0.98,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,England (UK),0.77,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,England (UK),0.90,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Scotland (UK),2023,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Scotland (UK),0.94,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Scotland (UK),0.94,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Scotland (UK),0.94,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Scotland (UK),0.94,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Scotland (UK),m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Scotland (UK),m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,OECD average,m,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,OECD average,0.83,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,OECD average,0.91,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,OECD average,0.77,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,OECD average,0.87,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,OECD average,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,OECD average,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Argentina,m,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Argentina,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Argentina,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Argentina,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Argentina,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Argentina,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Argentina,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Brazil,m,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Brazil,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Brazil,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Brazil,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Brazil,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Brazil,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Brazil,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Bulgaria,m,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Bulgaria,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Bulgaria,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Bulgaria,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Bulgaria,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Bulgaria,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Bulgaria,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,China,m,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,China,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,China,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,China,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,China,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,China,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,China,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Croatia,m,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Croatia,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Croatia,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Croatia,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Croatia,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Croatia,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Croatia,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,India,m,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,India,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,India,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,India,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,India,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,India,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,India,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Indonesia,m,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Indonesia,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Indonesia,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Indonesia,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Indonesia,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Indonesia,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Indonesia,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Peru,2022,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Peru,1.51,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Peru,1.48,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Peru,1.47,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Peru,1.48,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Peru,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Peru,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Romania,2023,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Romania,1.14,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Romania,1.18,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Romania,1.11,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Romania,1.15,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Romania,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Romania,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,Saudi Arabia,m,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,Saudi Arabia,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,Saudi Arabia,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,Saudi Arabia,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,Saudi Arabia,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,Saudi Arabia,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,Saudi Arabia,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,South Africa,m,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,South Africa,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,South Africa,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,South Africa,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,South Africa,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,South Africa,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,South Africa,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,EU25 average,m,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,EU25 average,0.82,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,EU25 average,0.90,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,EU25 average,0.75,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,EU25 average,0.85,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,EU25 average,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,EU25 average,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_earnings_reference_year,G20 average,m,year,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_tertiary_educated,G20 average,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_tertiary_educated,G20 average,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_prePrimary_vs_tertiary_educated,G20 average,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_lowerSecondaryGeneral_vs_tertiary_educated,G20 average,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_primary_vs_similarly_educated,G20 average,m,ratio,2024,OECD EAG 2025 Table D3.2
+D3.2_teacher_pay_ratio_upperSecondaryGeneral_vs_similarly_educated,G20 average,m,ratio,2024,OECD EAG 2025 Table D3.2
+TALIS2024_part_time_share_lower_secondary,Australia,19,percent,2024,OECD TALIS 2024 country note (Table 7.47)
+TALIS2024_part_time_share_lower_secondary,Bahrain,1,percent,2024,OECD TALIS 2024 country note (Table 7.47)
+TALIS2024_part_time_share_lower_secondary,Chile,28,percent,2024,OECD TALIS 2024 country note (Table 7.47)
+TALIS2024_part_time_share_lower_secondary,Finland,9,percent,2024,OECD TALIS 2024 country note (Table 7.47)
+TALIS2024_part_time_share_lower_secondary,France,16,percent,2024,OECD TALIS 2024 country note (Table 7.47)
+TALIS2024_part_time_share_lower_secondary,Italy,16,percent,2024,OECD TALIS 2024 country note (Table 7.47)
+TALIS2024_part_time_share_lower_secondary,Japan,7,percent,2024,OECD TALIS 2024 country note (Table 7.47)
+TALIS2024_part_time_share_lower_secondary,Korea,1,percent,2024,OECD TALIS 2024 country note (Table 7.47)
+TALIS2024_part_time_share_lower_secondary,Malta,5,percent,2024,OECD TALIS 2024 country note (Table 7.47)
+TALIS2024_part_time_share_lower_secondary,Morocco,25,percent,2024,OECD TALIS 2024 country note (Table 7.47)
+TALIS2024_part_time_share_lower_secondary,Netherlands,66,percent,2024,OECD TALIS 2024 country note (Table 7.47)
+TALIS2024_part_time_share_lower_secondary,Portugal,8,percent,2024,OECD TALIS 2024 country note (Table 7.47)
+TALIS2024_part_time_share_lower_secondary,Serbia,37,percent,2024,OECD TALIS 2024 country note (Table 7.47)
+TALIS2024_part_time_share_lower_secondary,Shanghai (China),9,percent,2024,OECD TALIS 2024 country note (Table 7.47)
+TALIS2024_part_time_share_lower_secondary,South Africa,2,percent,2024,OECD TALIS 2024 country note (Table 7.47)
+TALIS2024_part_time_share_lower_secondary,Spain,13,percent,2024,OECD TALIS 2024 country note (Table 7.47)
+TALIS2024_part_time_share_lower_secondary,Türkiye,26,percent,2024,OECD TALIS 2024 country note (Table 7.47)
+TALIS2024_part_time_share_lower_secondary,United States,5,percent,2024,OECD TALIS 2024 country note (Table 7.47)
+TALIS2024_part_time_share_lower_secondary,Viet Nam,19,percent,2024,OECD TALIS 2024 country note (Table 7.47)
+TALIS2024_part_time_share_lower_secondary,OECD average-27,19,percent,2024,OECD TALIS 2024 country note (Table 7.47)

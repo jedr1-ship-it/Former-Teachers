@@ -56,7 +56,7 @@ function render(lines,imgDir){const out=[];let buf=[];let tbl=null;
  flush();return out;}
 
 // ---- parse the chapter: body / notes / references ----
-const raw=fs.readFileSync(path.join(REPO,'drafts/v10/s2_en_v2.md'),'utf8');
+const raw=fs.readFileSync(path.join(REPO,'drafts/v10/s2_en_v3.md'),'utf8');
 const notesStart=raw.indexOf('## Notes');
 const refsStart=raw.indexOf('## References');
 const bodyMd=raw.slice(0,notesStart);
@@ -99,12 +99,8 @@ const children=[
  new TableOfContents('Table of contents',{hyperlink:true,headingStyleRange:'1-2'}),
  // ---------- sections ----------
  h1('1. Introduction',true),
- placeholder('[To be written last, distilled from the finished text.]'),
+ placeholder('Pendiente de escribir (al final de todo).'),
  ...render(bodyMd.split('\n'),IMG),
- h1('3. The policies',true),
- placeholder('[The body of the paper: the international record of re-attraction policies.]'),
- h1('4. Conclusions',true),
- placeholder('[Conclusions under their own numbered section heading.]'),
  ...render(refsMd.split('\n'),IMG),
 ];
 
