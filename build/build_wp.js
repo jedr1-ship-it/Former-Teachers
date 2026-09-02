@@ -46,7 +46,7 @@ function render(lines,imgDir){const out=[];let buf=[];let tbl=null;
       children:[new ImageRun({type:'png',data:fs.readFileSync(path.join(imgDir,f)),transformation:{width:430,height:270}})]}));continue;}
   if(/^# /.test(t)){flush();out.push(h1(t.slice(2),true));continue;}
   if(/^## /.test(t)){flush();out.push(h2(t.slice(3)));continue;}
-  if(/^(Note|Source):/.test(t)){flush();out.push(body(t,{run:{size:17},after:60}));continue;}
+  if(/^(Note|Source):/.test(t)){flush();out.push(new Paragraph({children:inline(t,{size:15}),alignment:AlignmentType.JUSTIFIED,spacing:{after:50,line:200}}));continue;}
   if(/^- /.test(t)){flush();out.push(new Paragraph({children:plainRuns(t.slice(2),{size:20}),spacing:{after:70},indent:{left:280,hanging:280}}));continue;}
   if(/^\|/.test(t)){flush();(tbl=tbl||[]).push(splitRow(t));continue;}
   if(tbl&&!/^\|/.test(t)){out.push(mkTable(tbl));tbl=null;}
